@@ -40,7 +40,7 @@
 			<span class="icon-font">menu</span>
 		</div>
 	</div> -->
-	<div id="check_bar">
+<!--	<div id="check_bar">
 		<form name="check_box">
 			<input type="checkbox" name="local1" checked="checked">local good player（インタビュー）<br>
 			<input type="checkbox" name="local2" checked="checked">Local good files（地域の情報）<br>
@@ -48,10 +48,11 @@
 			<input type="checkbox" name="local4">ジオツイート<br>
 			<input type="checkbox" name="local5">施設情報	
 		</form>
-	</div>
+	</div> -->
 	<div id="menubar">
-		<div id="menu_check" class="menu_button"><img src="img/icon_check.png"></div>
+<!--		<div id="menu_check" class="menu_button"><img src="img/icon_check.png"></div>
 		<div id="menu_about" class="menu_button"><img src="img/icon_about.png"></div>
+-->
 		<div id="c_place" class="menu_button"><img src="img/icon_place.png"></div>
 <!--		<div id="zentai" class="menu_button"><img src="img/icon_view.png"></div>		
 		<div id="scene_2d" class="menu_button"><img src="img/icon_2d.png"></div>
@@ -59,10 +60,12 @@
 		<div id="c_place" class="menu_button"><img src="img/icon_place.png"></div>
 -->
 	</div>
+<!--
 	<div id="setsumei">
 		<img src="img/color_sisetsu_yokohama.png">
 		<img src="img/color_task_yokohama.png">
 	</div>
+-->
 <!--
 	<div id="scene_mode">
 		<div id="mode_3d" class="menu_button"><img src="img/icon_3d.png"></div>
@@ -262,7 +265,7 @@
 */	
 
 
-
+/*
 		$("#check_bar :checkbox").click(function() {
 			viewer.dataSources.removeAll();
 			viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_pass.kml'));
@@ -276,16 +279,11 @@
   			if(document.check_box.local3.checked){
 				viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_task.kml'));
   			}
-  	//ジオツイートのczmlの記述
-  	/*		else if(document.check_box.local4.checked){
-				viewer.dataSources.add(Cesium.CzmlDataSource.load('czml/geotweet.czml'));
-  			}
-  	*/
   			if(document.check_box.local5.checked){
 				viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_sisetsu.kml'));
   			}
 		})
-
+*/
 
 /*
 		(function(d, s, id) {
