@@ -61,7 +61,6 @@ a:hover{
 .cesium-infoBox {
 	width:320px;
 	max-height: 505px;
-	min-height: 225px;
 	top: 100px;
 	overflow:hidden;
 	padding:0px;
@@ -131,7 +130,7 @@ a:hover{
 #setsumei{
 	position:fixed;
 	bottom:30px;
-	right:-1500px;
+	right:-650px;
 	width: 50%;
 }
 

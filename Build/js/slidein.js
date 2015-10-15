@@ -41,7 +41,7 @@ var about = $('#setsumei'),
 		if(body.hasClass('open')){
 			about.animate({'right' : 8 }, 120);
 		} else {
-			about.animate({'right' : -1500 }, 120);
+			about.animate({'right' : -650 }, 120);
 		}		     
 	});
 }); 
