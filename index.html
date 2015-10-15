@@ -45,7 +45,8 @@
 			<input type="checkbox" name="local1" checked="checked">local good player（インタビュー）<br>
 			<input type="checkbox" name="local2" checked="checked">Local good files（地域の情報）<br>
 			<input type="checkbox" name="local3" checked="checked">地域の課題<br>
-			<input type="checkbox" name="local4">施設情報	
+			<input type="checkbox" name="local4">ジオツイート<br>
+			<input type="checkbox" name="local5">施設情報	
 		</form>
 	</div>
 	<div id="menubar">
@@ -103,10 +104,10 @@
 		}
 		
 		var kmlDataArray=[];
-//			kmlDataArray[0]=new kmlData("背景",'kml/yokohama_pass.kml');
-//			kmlDataArray[1]=new kmlData("区の情報",'kml/yokohama_file.kml');
-//			kmlDataArray[2]=new kmlData("LOCAL GOOD PLAYER",'kml/yokohama_player.kml');
-//			kmlDataArray[3]=new kmlData("課題",'kml/yokohama_task.kml');
+			kmlDataArray[0]=new kmlData("背景",'kml/yokohama_pass.kml');
+			kmlDataArray[1]=new kmlData("区の情報",'kml/yokohama_file.kml');
+			kmlDataArray[2]=new kmlData("LOCAL GOOD PLAYER",'kml/yokohama_player.kml');
+			kmlDataArray[3]=new kmlData("課題",'kml/yokohama_task.kml');
 //			kmlDataArray[4]=new kmlData("施設情報",'kml/yokohama_sisetsu.kml');
 //			kmlDataArray[5]=new kmlData("ジオツイート",'kml/geotweet.kml');
 
@@ -181,7 +182,7 @@
 		setTimeout('groundZero()',0);
 
 		function groundZero(){
-			changeViewPoint(2,3);
+			changeViewPoint(20,3);
 			setTimeout('landing()',4000);
 		}
 		
@@ -275,7 +276,12 @@
   			if(document.check_box.local3.checked){
 				viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_task.kml'));
   			}
-  			if(document.check_box.local4.checked){
+  	//ジオツイートのczmlの記述
+  	/*		else if(document.check_box.local4.checked){
+				viewer.dataSources.add(Cesium.CzmlDataSource.load('czml/geotweet.czml'));
+  			}
+  	*/
+  			if(document.check_box.local5.checked){
 				viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_sisetsu.kml'));
   			}
 		})
