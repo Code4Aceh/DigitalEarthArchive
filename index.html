@@ -40,18 +40,19 @@
 			<span class="icon-font">menu</span>
 		</div>
 	</div> -->
+<!--
 	<div id="check_bar">
 		<form name="check_box">
 			<input type="checkbox" name="local1" checked="checked">local good player（インタビュー）<br>
 			<input type="checkbox" name="local2" checked="checked">Local good files（地域の情報）<br>
 			<input type="checkbox" name="local3" checked="checked">地域の課題<br>
-			<input type="checkbox" name="local4">ジオツイート<br>
-			<input type="checkbox" name="local5">施設情報	
 		</form>
 	</div>
+-->
 	<div id="menubar">
-		<div id="menu_check" class="menu_button"><img src="img/icon_check.png"></div>
+<!--		<div id="menu_check" class="menu_button"><img src="img/icon_check.png"></div>
 		<div id="menu_about" class="menu_button"><img src="img/icon_about.png"></div>
+-->
 		<div id="c_place" class="menu_button"><img src="img/icon_place.png"></div>
 <!--		<div id="zentai" class="menu_button"><img src="img/icon_view.png"></div>		
 		<div id="scene_2d" class="menu_button"><img src="img/icon_2d.png"></div>
@@ -107,9 +108,6 @@
 			kmlDataArray[0]=new kmlData("背景",'kml/yokohama_pass.kml');
 			kmlDataArray[1]=new kmlData("区の情報",'kml/yokohama_file.kml');
 			kmlDataArray[2]=new kmlData("LOCAL GOOD PLAYER",'kml/yokohama_player.kml');
-			kmlDataArray[3]=new kmlData("課題",'kml/yokohama_task.kml');
-//			kmlDataArray[4]=new kmlData("施設情報",'kml/yokohama_sisetsu.kml');
-//			kmlDataArray[5]=new kmlData("ジオツイート",'kml/geotweet.kml');
 
 		var osm;
 		var mobile = 0;
@@ -262,7 +260,7 @@
 */	
 
 
-
+/*
 		$("#check_bar :checkbox").click(function() {
 			viewer.dataSources.removeAll();
 			viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_pass.kml'));
@@ -276,16 +274,8 @@
   			if(document.check_box.local3.checked){
 				viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_task.kml'));
   			}
-  	//ジオツイートのczmlの記述
-  	/*		else if(document.check_box.local4.checked){
-				viewer.dataSources.add(Cesium.CzmlDataSource.load('czml/geotweet.czml'));
-  			}
-  	*/
-  			if(document.check_box.local5.checked){
-				viewer.dataSources.add(Cesium.KmlDataSource.load('kml/yokohama_sisetsu.kml'));
-  			}
 		})
-
+*/
 
 /*
 		(function(d, s, id) {
