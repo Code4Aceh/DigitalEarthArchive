@@ -94,27 +94,9 @@
 	}
 	
 	var viewPointsArray=[];
-		viewPointsArray[0]=new viewPoints("横浜市全体",95.578812,4.633426,0,-25,20000);
-		viewPointsArray[1]=new viewPoints("青葉区",35.570356,139.519426,0,-10,10000);
-		viewPointsArray[2]=new viewPoints("旭区",35.486228,139.533291,0,-10,10000);
-		viewPointsArray[3]=new viewPoints("泉区",35.436056,139.498488,0,-10,10000);
-		viewPointsArray[4]=new viewPoints("磯子区",35.407283,139.608477,0,-10,10000);
-		viewPointsArray[5]=new viewPoints("神奈川区",35.505812,139.615267,0,-10,10000);
-		viewPointsArray[6]=new viewPoints("金沢区",35.361470,139.614927,0,-10,10000);
-		viewPointsArray[7]=new viewPoints("港南区",35.409580,139.578164,0,-10,10000);
-		viewPointsArray[8]=new viewPoints("港北区",35.537409,139.614031,0,-10,10000);
-		viewPointsArray[9]=new viewPoints("栄区",35.380718,139.560179,0,-10,10000);
-		viewPointsArray[10]=new viewPoints("瀬谷区",35.480602,139.491414,0,-10,10000);
-		viewPointsArray[11]=new viewPoints("都筑区",35.555828,139.572365,0,-10,10000);
-		viewPointsArray[12]=new viewPoints("鶴見区",35.519496,139.671446,0,-10,10000);
-		viewPointsArray[13]=new viewPoints("戸塚区",35.421083,139.531004,0,-10,10000);
-		viewPointsArray[14]=new viewPoints("中区",35.446709,139.659198,0,-10,10000);
-		viewPointsArray[15]=new viewPoints("西区",35.482484,139.613902,0,-10,10000);
-		viewPointsArray[16]=new viewPoints("保土ヶ谷区",35.476567,139.576433,0,-10,10000);
-		viewPointsArray[17]=new viewPoints("緑区",35.525050,139.536412,0,-10,10000);
-		viewPointsArray[18]=new viewPoints("南区",35.452010,139.599619,0,-10,10000);
-		viewPointsArray[19]=new viewPoints("横から見る",35.436119,139.567403,0,-3,14000);
-		viewPointsArray[20]=new viewPoints("真上から見る",95.578812,4.633426,0,-85,50000);
+		viewPointsArray[0]=new viewPoints("アチェ全体",95.578812,4.633426,0,-25,20000);
+		viewPointsArray[1]=new viewPoints("横から見る",95.578812,4.633426,0,-3,14000);
+		viewPointsArray[2]=new viewPoints("真上から見る",95.578812,4.633426,0,-85,50000);
 
 		function kmlData(_label, _url) {
 			this.label = _label;
@@ -122,10 +104,10 @@
 		}
 		
 		var kmlDataArray=[];
-			kmlDataArray[0]=new kmlData("背景",'kml/yokohama_pass.kml');
-			kmlDataArray[1]=new kmlData("区の情報",'kml/yokohama_file.kml');
-			kmlDataArray[2]=new kmlData("LOCAL GOOD PLAYER",'kml/yokohama_player.kml');
-			kmlDataArray[3]=new kmlData("課題",'kml/yokohama_task.kml');
+//			kmlDataArray[0]=new kmlData("背景",'kml/yokohama_pass.kml');
+//			kmlDataArray[1]=new kmlData("区の情報",'kml/yokohama_file.kml');
+//			kmlDataArray[2]=new kmlData("LOCAL GOOD PLAYER",'kml/yokohama_player.kml');
+//			kmlDataArray[3]=new kmlData("課題",'kml/yokohama_task.kml');
 //			kmlDataArray[4]=new kmlData("施設情報",'kml/yokohama_sisetsu.kml');
 //			kmlDataArray[5]=new kmlData("ジオツイート",'kml/geotweet.kml');
 
@@ -200,7 +182,7 @@
 		setTimeout('groundZero()',0);
 
 		function groundZero(){
-			changeViewPoint(20,3);
+			changeViewPoint(2,3);
 			setTimeout('landing()',4000);
 		}
 		
