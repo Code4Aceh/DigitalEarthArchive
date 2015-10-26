@@ -97,8 +97,8 @@
 		viewPointsArray[0]=new viewPoints("Balohan",4.633426,95.578812,0,-85,50000);
 		viewPointsArray[1]=new viewPoints("BlangEdit",4.633426,95.578812,0,-85,50000);
 		viewPointsArray[2]=new viewPoints("KetapangEdit",4.633426,95.578812,0,-85,50000);
-		viewPointsArray[3]=new viewPoints("Views from above",5.223058,95.737349,0,-85,170000);
-		viewPointsArray[4]=new viewPoints("First View",4.633426,95.578812,0,-25,2000);
+		viewPointsArray[3]=new viewPoints("Views from above",5.223058,95.737349,0,-85,180000);
+		viewPointsArray[4]=new viewPoints("First View",4.633426,95.578812,0,-20,1000);
 
 
 		function kmlData(_label, _url) {
@@ -183,7 +183,7 @@
 
 		function groundZero(){
 			changeViewPoint(3,3);
-			setTimeout('landing()',8000);
+			setTimeout('landing()',4000);
 		}
 		
 		function landing(){
