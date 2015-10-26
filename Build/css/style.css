@@ -128,14 +128,14 @@ a:hover{
 }
 
 #setsumei{
-	position:fixed;
-	bottom:30px;
-	right:-650px;
-	width: 50%;
+	position: absolute;
+	bottom: 10px;
+	left: 20px;
+	width: 450px;
 }
 
 #setsumei img{
-	width: 49%;
+	width: 100%;
 }
 
 #slide_menu{
@@ -220,9 +220,9 @@ a:hover{
 	margin-left:-32px;
 }
 @media screen and (max-width: 768px){
-	#setsumei{
+/*	#setsumei{
 		width: 36%;
-	}
+	}*/
 	#setsumei img {
 		width: 100%;
 	}
@@ -235,7 +235,7 @@ a:hover{
 }
 @media screen and (max-width:500px){
 	#setsumei{
-		width: 50%;
+		width: 80%;
 	}
 	#logo{
 		width: 25%;
