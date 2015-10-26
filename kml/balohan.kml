@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>balohan.kml</name>
+	<Style id="sh_mjaminwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-yB5_WhV3viA/VcdPjILUpiI/AAAAAAAADJg/-viWeYkj3ew/s100-Ic42/mjaminwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_mjaminwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_mjaminwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_mjaminwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_tzulfikar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tzulfikar</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tzulfikar</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_halimah">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-eKymvYQeNWE/VcdJVsao23I/AAAAAAAADGY/GZafDnUs4b4/s100-Ic42/halimah.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_mjakob">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_mjakob</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_mjakob</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_mjakob">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-UjAyGUvAPpM/VcdMGMv2FAI/AAAAAAAADIM/xKceGhk2uGo/s100-Ic42/mjakob.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_mjaminwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-yB5_WhV3viA/VcdPjILUpiI/AAAAAAAADJg/-viWeYkj3ew/s100-Ic42/mjaminwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ilustrator2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ilustrator0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ilustrator2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_mjusufwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_mjusufwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_mjusufwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ilustrator0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ilustrator</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ilustrator</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ilustrator">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ilustrator2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ilustrator0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ilustrator0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ilustrator1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ilustrator">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_halimah">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_halimah</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_halimah</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ilustrator2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_madek">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_madek</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_madek</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_mjusufwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-I5ZkiZN7L10/VcdTlinCEdI/AAAAAAAADK8/dlYMFHvhArM/s100-Ic42/mjusufwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_mjusufwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-I5ZkiZN7L10/VcdTlinCEdI/AAAAAAAADK8/dlYMFHvhArM/s100-Ic42/mjusufwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_madek">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/--qsaByz2Ij4/VcdD2xWOZNI/AAAAAAAADEI/WaLSDTwbwsw/s100-Ic42/madek.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_madek">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/--qsaByz2Ij4/VcdD2xWOZNI/AAAAAAAADEI/WaLSDTwbwsw/s100-Ic42/madek.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ilustrator0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ilustrator1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_tzulfikar">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-atT5OIRlr-o/Vcc-XlDq8lI/AAAAAAAADA8/hyOtKp5vCN0/s100-Ic42/tzulfikar.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_tzulfikar">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-atT5OIRlr-o/Vcc-XlDq8lI/AAAAAAAADA8/hyOtKp5vCN0/s100-Ic42/tzulfikar.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_mjakob">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-UjAyGUvAPpM/VcdMGMv2FAI/AAAAAAAADIM/xKceGhk2uGo/s100-Ic42/mjakob.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ilustrator2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ilustrator1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ilustrator1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ilustrator1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_halimah">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-eKymvYQeNWE/VcdJVsao23I/AAAAAAAADGY/GZafDnUs4b4/s100-Ic42/halimah.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ilustrator">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>Balohan.kmz/files/ilustrator.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Balohan</name>
+		<Folder>
+			<name>M.Yusuf..Wife</name>
+			<open>1</open>
+			<Placemark>
+				<name>M.Yusuf.Wife</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Handle Broken<br>
+<img src="https://lh3.googleusercontent.com/-nnBqdr-pP34/VcdPmgcPyQI/AAAAAAAADKU/x2w_hRFSH2o/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.59.01%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-ZTE7HQxurbI/VcdPm44OP8I/AAAAAAAADKY/Pv1RKinqWxE/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.59.23%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-gP5noYZHhbY/VcdPmoFo7tI/AAAAAAAADKc/dX9WMterXtw/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.59.12%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-3zOYmeltMDo/VcdPntZ3t0I/AAAAAAAADKo/0Oxy_CZyJxk/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.59.55%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-4MOoGQ-TY6U/VcdPlw9TuRI/AAAAAAAADJw/Zztu7u2TXQc/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.58.39%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-Uo-6Ds7YapI/VcdPlxk3RaI/AAAAAAAADKE/axQuO144ngQ/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.58.49%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-ReRsd0Dz_Cw/VVRf6epe-II/AAAAAAAABVE/f3SROEATgxo/s52-Ic42/ceiling.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking<br>
+<img src="https://lh3.googleusercontent.com/-HDYsh1GqFZQ/VcdPl6nj_eI/AAAAAAAADKA/kN0p0AuiCsE/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.00.14%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/-HgPeoxgE54/s100-Ic42/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling: Small broken<br>
+<img src="https://lh3.googleusercontent.com/-jAWgZZEIOwk/VcdPnX5UucI/AAAAAAAADKg/VoD1CdSDKq0/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.59.34%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing <br>
+<img src="https://lh3.googleusercontent.com/-xmbc6K_pxgc/VcdPnkN04gI/AAAAAAAADKk/FNc7ejwrPb4/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.59.44%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.35051660734615</longitude>
+					<latitude>5.831090734840116</latitude>
+					<altitude>0</altitude>
+					<heading>-0.4393893589901366</heading>
+					<tilt>53.72701406809509</tilt>
+					<range>961.4650718364425</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_mjaminwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34795626961359,5.829899884507245,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>M.Jamin.Wife</name>
+			<open>1</open>
+			<Placemark>
+				<name>M.Jamin.Wife</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Handle Broken<br>
+<img src="https://lh3.googleusercontent.com/-yQUKCcbzKc4/VcdTu8qGcvI/AAAAAAAADL8/KRfg--TOiXM/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.14.08%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-UjNwL7DZng0/VcdTvJ7y8aI/AAAAAAAADL0/iYQpuCQC33M/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.14.22%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-xgQhMj4WWVE/VcdTv4wiCmI/AAAAAAAADMQ/8gnGM9zQXgM/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.15.01%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-GQA8Xn1uqU0/VcdTuZz0EaI/AAAAAAAADLo/eiCK7jRGV1o/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.13.56%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-FlbG3LZLruE/VcdTty0hliI/AAAAAAAADLY/LErdTRRK-2U/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.13.41%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking<br>
+<img src="https://lh3.googleusercontent.com/-m506Wl-Tu08/VcdTvjO7gWI/AAAAAAAADME/A_gswwmEQv4/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.14.48%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-HY8zruT2-SA/VcdTwhTNQQI/AAAAAAAADMg/hd8k_pQ5TTI/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.15.34%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-dsfcNbvP2_w/VcdTw5LZy6I/AAAAAAAADMk/2pBjHThRC2s/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.15.56%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-s13W0JcDSIM/VcdTxeHpDjI/AAAAAAAADM0/xKsUBYhhDsk/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.16.24%252520PM.png"/ width = "200px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/gRUKZqxcrAg/s100-Ic42/extend%252520house.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-J9OG8DDU13s/VcdTtKdpzrI/AAAAAAAADLM/RRqrNk1Peso/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.12.31%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing <br>
+<img src="https://lh3.googleusercontent.com/-JX1Rq-exPIM/VcdTwU0NafI/AAAAAAAADMc/qxHeDaoS94Y/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%25252010.15.15%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.34844579965977</longitude>
+					<latitude>5.831789437474366</latitude>
+					<altitude>0</altitude>
+					<heading>-0.4396284340079448</heading>
+					<tilt>51.52059072906808</tilt>
+					<range>685.9887176187661</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_mjusufwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34778123985515,5.829999227030497,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>M.Yakob.Is</name>
+			<open>1</open>
+			<Placemark>
+				<name>M.Yakob.Is</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-ReRsd0Dz_Cw/VVRf6epe-II/AAAAAAAABVE/f3SROEATgxo/s52-Ic42/ceiling.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling: Small broken<br>
+<img src="https://lh3.googleusercontent.com/-htw5y2l1cHo/VcdMLNpeF4I/AAAAAAAADIs/klO0wHM2XIs/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.48.01%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking<br>
+<img src="https://lh3.googleusercontent.com/-cDOvDmDVcoo/VcdMKZzscBI/AAAAAAAADIo/GjjjoNTUNpE/s576-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.47.26%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing<br>
+<img src="https://lh3.googleusercontent.com/-_U_MPna6bD8/VcdMKZaBe0I/AAAAAAAADIk/VItLcfLg9ow/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.47.44%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/-HgPeoxgE54/s100-Ic42/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Structure: Medium damage<br>
+<img src="https://lh3.googleusercontent.com/-yHU6YhM2H7Y/VcdMKB7-NgI/AAAAAAAADIg/AWJuy_ei49M/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.47.09%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.34954408367727</longitude>
+					<latitude>5.829167926231106</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03946932849735078</heading>
+					<tilt>38.90971477300378</tilt>
+					<range>957.1133514997914</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_mjakob</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.3479814770196,5.829951445875614,90</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Halimah</name>
+			<open>1</open>
+			<Placemark>
+				<name>Halimah</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Handle Broken<br>
+<img src="https://lh3.googleusercontent.com/-1Ycub5aL_aA/VcdJi2M1aiI/AAAAAAAADG4/b8Fz8AsIEC8/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.35.10%252520PM.png"/ width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-aURrZYRIVng/VcdJiyMCfCI/AAAAAAAADGo/POLbbQ1suBs/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.34.58%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-j4wK1iwhVXI/VcdJj9yRjfI/AAAAAAAADHA/nrHMGzGW7Ls/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.36.00%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking<br>
+<img src="https://lh3.googleusercontent.com/-lFkgIS6_MFg/VcdJjlr0-EI/AAAAAAAADHE/8nyxhUlkn_4/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.35.31%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Permanent<br>
+<img src="https://lh3.googleusercontent.com/-_XvG679t9ug/VcdJi6YsnlI/AAAAAAAADG8/crNbTNYRaTY/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.34.40%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing <br>
+<img src="https://lh3.googleusercontent.com/-8TI00Mb3BeM/VcdJj9yu9gI/AAAAAAAADHI/FhafB98bNTA/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.35.45%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.34917051932034</longitude>
+					<latitude>5.831471547250709</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03036459242885181</heading>
+					<tilt>52.76161656170202</tilt>
+					<range>912.5353914347747</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_halimah</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34775334687986,5.829816842795335,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>3. Hanafiah</name>
+			<open>1</open>
+			<Placemark>
+				<name>Hanafiah</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Handle Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-feFk8_ErU6A/VcdHCSNp7ZI/AAAAAAAADFo/NTQ0oA4xgIE/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.26.05%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition
+<br>
+<img src="https://lh3.googleusercontent.com/-k_tJ3yvFG9I/VcdHCP37zcI/AAAAAAAADFk/0zrB7UVf4eY/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.25.51%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing
+<br>
+<img src="https://lh3.googleusercontent.com/-dsoixWPvG7M/VcdHCacaf3I/AAAAAAAADFs/QXnAunKnW2A/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.26.17%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.34951957505277</longitude>
+					<latitude>5.829316674062179</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03458409993499788</heading>
+					<tilt>42.33881415110871</tilt>
+					<range>943.9786892064263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ilustrator2</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34781417393781,5.829687691875026,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>M. Adek</name>
+			<open>1</open>
+			<Placemark>
+				<name>M.Adek</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Petmanent<br>
+<img src="https://lh3.googleusercontent.com/-_apzAahAweE/VcdD8RxikWI/AAAAAAAADEk/QE5wyhnmF6c/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.11.34%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door : Handle broken<br>
+<img src="https://lh3.googleusercontent.com/-JTBryOfZ9Fk/VcdD8eBb03I/AAAAAAAADEc/bg7hvTeivxE/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.11.52%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing<br>
+<img src="https://lh3.googleusercontent.com/-7w5RHHeHTlA/VcdD9FKNeZI/AAAAAAAADEo/vDZMjzwAklc/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.12.39%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/-HgPeoxgE54/s100-Ic42/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Structure: Small damage<br>
+<img src="https://lh3.googleusercontent.com/-feYmaJ0O1Qs/VcdD8cjeCTI/AAAAAAAADEY/wGWqlCXiR98/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.12.14%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.34892201640493</longitude>
+					<latitude>5.831305582998028</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08198784872652659</heading>
+					<tilt>46.9589335143834</tilt>
+					<range>774.8682962631922</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_madek</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34793376614859,5.829767760408827,90</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Muhammad Sulaiman</name>
+			<open>1</open>
+			<Placemark>
+				<name>Muhammad Sulaiman</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Handle Broken<br>
+<img src="https://lh3.googleusercontent.com/-GAdqQ9Nq3gM/VcdBg13AnUI/AAAAAAAADC8/EtwkxCBwse4/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.01.28%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-VEJhJgX4b34/VcdBd1xrduI/AAAAAAAADC0/FePbRpXmjMU/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.01.08%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking<br>
+<img src="https://lh3.googleusercontent.com/-DMl-op7VlPg/VcdBbCsKCtI/AAAAAAAADCs/exjJzuIwrVg/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.00.55%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/-HgPeoxgE54/s100-Ic42/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Structure: Small damage<br>
+<img src="https://lh3.googleusercontent.com/-tpe4CV7vUUA/VcdBkrOlGYI/AAAAAAAADDE/PBl0_rtzSsY/s168-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.01.42%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing <br>
+<img src="https://lh3.googleusercontent.com/-_BzjIVH0NEQ/VcdBm-KV2RI/AAAAAAAADDM/T5aGQGP1NuU/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525209.02.07%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.35009944444027</longitude>
+					<latitude>5.830633493202887</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08190648081399704</heading>
+					<tilt>45.58657658502926</tilt>
+					<range>1076.105069853159</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ilustrator0</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34799658271537,5.829662833827531,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zulfikar</name>
+			<open>1</open>
+			<Placemark>
+				<name>Zulfikar</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Handle Broken<br>
+<img src="https://lh3.googleusercontent.com/-IrvVOQew3yI/Vcc-yOarGtI/AAAAAAAADBk/sM6JDAK1k5E/s640-Ic42/Pintu%252520Rumah%252520T.%252520Zulfikar%252520TA.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-Zi3pJ6GArus/Vcc-sh-XW3I/AAAAAAAADBU/7gIT4A_BGII/s640-Ic42/Jendela%252520Rumah%252520T.%252520Zulfikar%252520TA.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable : Permanent<br>
+<img src="https://lh3.googleusercontent.com/-6aJFbfrwQJU/Vcc-nYu0lOI/AAAAAAAADBE/v1NqbXyx8y8/s640-Ic42/Bagian%252520Bawah%252520Eksterior%252520Plafon%252520%2525282%252529%252520Rumah%252520T.zulfikar%252520TA.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/-HgPeoxgE54/s100-Ic42/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Structure: Small damage<br>
+<img src="https://lh3.googleusercontent.com/-oiPvTBcYkfY/Vcc-0mKJYrI/AAAAAAAADBs/PkiPQI42UeM/s640-Ic42/Struktur%252520Beton%252520T.Zulfikar%252520ZA.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing <br>
+<img src="https://lh3.googleusercontent.com/-MNZ4kOvkj2o/Vcc-3OTWDtI/AAAAAAAADB0/iA4t5xLL5uQ/s640-Ic42/Toilet%252520Rumah%252520T.Zulfikar%252520TA%252520%2525281%252529.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.35009944478892</longitude>
+					<latitude>5.830633493130468</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08190648018106798</heading>
+					<tilt>45.58657658574226</tilt>
+					<range>1076.10512222366</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_tzulfikar</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34790860743159,5.829614358507654,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>5. Kasmi Daud</name>
+			<open>1</open>
+			<Placemark>
+				<name>Kasmi Daud</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/PU74CPHAi_I/s52-Ic42/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Handle Broken<br>
+<img src="https://lh3.googleusercontent.com/-fQEN_b9igV8/Vcc5ojLTYeI/AAAAAAAAC_w/dliKIKCBvfE/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.27.48%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-3Q4fbI-uaZw/Vcc5ezQ_dSI/AAAAAAAAC_Y/XP8Quylg7gs/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.27.33%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking<br>
+<img src="https://lh3.googleusercontent.com/-JHPdXBogT_s/Vcc5cdyJVaI/AAAAAAAAC_Q/A9gDbQkjudM/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.27.21%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/-HgPeoxgE54/s100-Ic42/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Structure: Medium damage<br>
+<img src="https://lh3.googleusercontent.com/-TXJOylA4P9M/Vcc5hu9rUzI/AAAAAAAADAQ/yJJU-CVl024/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.28.01%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Changing <br>
+<img src="https://lh3.googleusercontent.com/-vTF3L3hGEzk/Vcc5k4BZpOI/AAAAAAAAC_o/ViE123Yi7tA/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.28.20%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.35120699146314</longitude>
+					<latitude>5.82872267503033</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08179316231828693</heading>
+					<tilt>45.07336079381648</tilt>
+					<range>1249.086867120438</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ilustrator</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34791944444444,5.83010337851133,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>4. Herman</name>
+			<open>1</open>
+			<Placemark>
+				<name>Herman</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Good<br>
+<img src="https://lh3.googleusercontent.com/-OxDNsA-0Evg/VcczRotYzLI/AAAAAAAAC-E/lJv0nPVuFhU/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.00.24%252520PM.png"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-0nGGdwtychs/VcczYmU1TcI/AAAAAAAAC-M/wKG-rFZtmv0/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.01.29%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking<br>
+<img src="https://lh3.googleusercontent.com/-L2HBxYpgqyo/VcczOAaUuyI/AAAAAAAAC98/eXMzV27Rqe4/s640-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525207.59.23%252520PM.png"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/-HgPeoxgE54/s100-Ic42/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Structure: Medium damage<br>
+<img src="https://lh3.googleusercontent.com/-1kZI13A_EOo/Vccza1c1ELI/AAAAAAAAC-U/Y14pymqlJWQ/s512-Ic42/Screen%252520Shot%2525202015-08-09%252520at%2525208.01.54%252520PM.png"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.35222245137568</longitude>
+					<latitude>5.827578568717271</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01584949034981704</heading>
+					<tilt>51.1034177567812</tilt>
+					<range>1523.927068572069</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ilustrator1</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.34778041329089,5.829605424042128,90</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

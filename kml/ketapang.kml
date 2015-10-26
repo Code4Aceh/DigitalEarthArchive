@@ -1,0 +1,3676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ketapang.kml</name>
+	<Style id="sn_sopian">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-EKqxQKKNB_g/VUtNhXYz04I/AAAAAAAAA_8/amOQzBX1OaI/s128/sopian.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_faisalramli">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-hFP8mbn9Rsc/VUtPveWf40I/AAAAAAAABFQ/qfv1lfGDse0/s128/faisalramli.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_asmawatijohan">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-yA7_vnWZ50Q/VUtCmqMHddI/AAAAAAAAAlA/oIQ0-P0MKio/s128/asmawatijohan.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_muchtarudin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-HmJrBxQgRvk/VUtQ0eOWCjI/AAAAAAAABIs/a9hEoKzlA-o/s128/muchtarudin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_painowife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-bSvakSO12YU/VUtDw6lZeOI/AAAAAAAAAnI/ZbXV2km4GPk/s100/painowife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_dewijulita">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-71ij45fTnvY/VUtOX0PL1MI/AAAAAAAABCc/ziN62ALyXEw/s100/dewijulita.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_muliono">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-mUJpwIdE4R4/VUtF85ufW7I/AAAAAAAAAsQ/LkYE3Yx8sH0/s128/muliono.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_julitahusband">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-nXuCgBqV56U/VUtKaI4qn_I/AAAAAAAAA4w/48uwSra2VOQ/s128/julitahusband.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wardatonidami">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-4cDTunXBaew/VUtO1X6HmnI/AAAAAAAABDg/roLVWIOIJiM/s128/wardatonidami.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ilyasadan">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ilyasadan</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ilyasadan</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_faisalramli">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-hFP8mbn9Rsc/VUtPveWf40I/AAAAAAAABFQ/qfv1lfGDse0/s128/faisalramli.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_painowife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-bSvakSO12YU/VUtDw6lZeOI/AAAAAAAAAnI/ZbXV2km4GPk/s100/painowife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_dewijulita">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_dewijulita</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_dewijulita</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_mnasirandahwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-cdfIIVv6YJA/VUtIBzIc_DI/AAAAAAAAAyk/OYI_v2WcQCU/s128/mnasirandahwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>331aebff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_suryaniwahab0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-fG2UdKHemGk/VUtRJ-HkQuI/AAAAAAAABJk/WZdz9mnDaHs/s128/suryaniwahab.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_nazirwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-N_DOMumn2bQ/VUtMxSIPF9I/AAAAAAAAA9c/CzJRMgMWJbg/s128/nazirwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_alawiyah">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-HNRuGd6KpII/VUtFoX4Iy5I/AAAAAAAAArU/aO0aOXkzgPE/s128/alawiyah.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_asyiahbintirasyid">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-q5vLnlI9uWg/VUtDMWFl-YI/AAAAAAAAAmA/O1vRXfPYeSI/s128/asyiahbintirasyid.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_aderizalfadliwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_aderizalfadliwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_aderizalfadliwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nazirwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-N_DOMumn2bQ/VUtMxSIPF9I/AAAAAAAAA9c/CzJRMgMWJbg/s128/nazirwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_sabirin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-f3XA_HhgxSs/VUtSEPEbvQI/AAAAAAAABMI/8VTSDTUX9Fs/s128/sabirin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_sopian">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-EKqxQKKNB_g/VUtNhXYz04I/AAAAAAAAA_8/amOQzBX1OaI/s128/sopian.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_zainalabidinmala">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_zainalabidinmala</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_zainalabidinmala</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_marnila">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_marnila</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_marnila</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_myunuspasiwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-AKc3HwCaYgM/VUtEZlUQm7I/AAAAAAAAAoI/MtEDk53GffE/s128/myunuspasiwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_samsulmasri">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-CIMEn443Yts/VUtGkAbf2rI/AAAAAAAAAuU/1sJrVh8XIqM/s128/samsulmasri.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d90e2cff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_mawardiib">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-NrzcsHiyJj0/VUtG-ZKKscI/AAAAAAAAAvk/8a5Qt94UggY/s128/mawardiib.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_zulkifliabd">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_zulkifliabd0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_zulkifliabd</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_nazarerniwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nazarerniwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nazarerniwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_suryaniwahab0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-fG2UdKHemGk/VUtRJ-HkQuI/AAAAAAAABJk/WZdz9mnDaHs/s128/suryaniwahab.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_kusmiatiub">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-FaJlLH_IPzM/VUtI4AMPCKI/AAAAAAAAA00/ufA_AkjYaWc/s128/kusmiatiub.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_umarwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_umarwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_umarwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arjuna">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arjuna</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arjuna</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_midarulfadli">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_midarulfadli</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_midarulfadli</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_yusmawatiraden">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_yusmawatiraden</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_yusmawatiraden</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_samsulmasri">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_samsulmasri</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_samsulmasri</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_midarulfadli">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-OKbZRi7mBvE/VUtOKw1NhPI/AAAAAAAABBw/IIvFGoHhWTI/s128/midarulfadli.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_suryaniwahab">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-fG2UdKHemGk/VUtRJ-HkQuI/AAAAAAAABJk/WZdz9mnDaHs/s128/suryaniwahab.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_sayeddahlanwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sayeddahlanwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sayeddahlanwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_iswandarrusli">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-qijVRbg1GPY/VUtP_zJNa5I/AAAAAAAABGI/a4gl9YLc47U/s128/iswandarrusli.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_iswandarrusli">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_iswandarrusli</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_iswandarrusli</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_sayeddahlanwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-o4RPAErQe40/VUtJrZUVbvI/AAAAAAAAA2Y/kRKmlOuZ6ts/s128/sayeddahlanwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_nazirwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nazirwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nazirwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_samsulmasri">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-CIMEn443Yts/VUtGkAbf2rI/AAAAAAAAAuU/1sJrVh8XIqM/s128/samsulmasri.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d90e2cff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_hanafiwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_hanafiwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_hanafiwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_asyiahbintirasyid">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_asyiahbintirasyid</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_asyiahbintirasyid</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ilyasadan">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-2svYu-QgdEg/VUtLw8Z3fhI/AAAAAAAAA64/8j1pSMhmlRY/s128/ilyasadan.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_muchtarudin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_muchtarudin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_muchtarudin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_sopian">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sopian</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sopian</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_myunuspasiwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_myunuspasiwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_myunuspasiwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_marnila">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-T-2GZnKgzRE/VVXSgNb_rEI/AAAAAAAABeI/_H6NK9pGbG4/s100/marnila.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_zulkifliabd0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-74FhsMNbaCU/VUtFQGEqF0I/AAAAAAAAAqY/m9iNFbwp-zg/s100/zulkifliabd.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_asyiahbintirasyid">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-q5vLnlI9uWg/VUtDMWFl-YI/AAAAAAAAAmA/O1vRXfPYeSI/s128/asyiahbintirasyid.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_nazarerniwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-3tXd9oCEmvE/VUtNQw06SjI/AAAAAAAAA_I/mU6mopSN1ak/s128/nazarerniwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>331aebff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_mahdicekmatwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_mahdicekmatwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_mahdicekmatwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_umarwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-X0Ia16b37C8/VUtBPOnIfSI/AAAAAAAAAiE/97DU5cioUkY/s128/umarwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_tzulmaliwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tzulmaliwife0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tzulmaliwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wardatonidami">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-4cDTunXBaew/VUtO1X6HmnI/AAAAAAAABDg/roLVWIOIJiM/s128/wardatonidami.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_maminbbnwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-1gsrRSb0Qxs/VUtJZ3n2JiI/AAAAAAAAA1k/SD6EYwmJung/s128/maminbbnwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_muntasir">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-7jjsjFjSE0s/VUtJ8YaF6QI/AAAAAAAAA3o/TGdTAYYK4-g/s128/muntasir.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_tzulmaliwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-aG0THlyanDg/VUtLdCShVaI/AAAAAAAAA5k/6iei8AZQMbI/s128/tzulmaliwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_tzulmaliwife0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-aG0THlyanDg/VUtLdCShVaI/AAAAAAAAA5k/6iei8AZQMbI/s128/tzulmaliwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>331aebff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_zulfianahmadwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_zulfianahmadwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_zulfianahmadwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_mnasirandahwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_mnasirandahwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_mnasirandahwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_muchtarudin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-HmJrBxQgRvk/VUtQ0eOWCjI/AAAAAAAABIs/a9hEoKzlA-o/s128/muchtarudin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_hanafiwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-ro9gKKYlhBI/VUtGQq8OJpI/AAAAAAAAAtM/r-gU18uBlek/s128/hanafiwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_yusmawatiraden">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-igeQWYJNV-E/VUtN3MYyGHI/AAAAAAAABAs/A91Ze8mqa2M/s128/yusmawatiraden.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_munsahwi">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_munsahwi</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_munsahwi</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_mnasirandahwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-cdfIIVv6YJA/VUtIBzIc_DI/AAAAAAAAAyk/OYI_v2WcQCU/s128/mnasirandahwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>331aebff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_tzulmaliwife0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tzulmaliwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tzulmaliwife0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_julitahusband">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_julitahusband</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_julitahusband</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_alawiyah">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alawiyah</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alawiyah</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_dufni">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-FM6MMOlz6Js/VUtQXzv0YcI/AAAAAAAABHY/-EU9OHxu-L4/s128/dufni.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ilyasadan">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-2svYu-QgdEg/VUtLw8Z3fhI/AAAAAAAAA64/8j1pSMhmlRY/s128/ilyasadan.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_mahdicekmatwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-GAvNAxfGU-M/VUtHQzpyulI/AAAAAAAAAwo/NVOW09YIuH8/s128/mahdicekmatwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wardatonidami">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wardatonidami</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wardatonidami</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_marnila">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-T-2GZnKgzRE/VVXSgNb_rEI/AAAAAAAABeI/_H6NK9pGbG4/s100/marnila.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_kusmiatiub">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kusmiatiub</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kusmiatiub</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sayeddahlanwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-o4RPAErQe40/VUtJrZUVbvI/AAAAAAAAA2Y/kRKmlOuZ6ts/s128/sayeddahlanwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_kusmiatiub">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-FaJlLH_IPzM/VUtI4AMPCKI/AAAAAAAAA00/ufA_AkjYaWc/s128/kusmiatiub.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_tzulmaliwife0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-aG0THlyanDg/VUtLdCShVaI/AAAAAAAAA5k/6iei8AZQMbI/s128/tzulmaliwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_faisalramli">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_faisalramli</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_faisalramli</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_dufni">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_dufni</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_dufni</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_asminirahman">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-ox6_UddGOQE/VVa7-mtTVxI/AAAAAAAABfg/PYEyx8fABFs/s128/asminirahman.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_arsyadheriwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-AM4Ud42CDqE/VUtMMCovRKI/AAAAAAAAA74/BB1Nv_k-_Ks/s100/arsyadheriwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_mawardiib">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-NrzcsHiyJj0/VUtG-ZKKscI/AAAAAAAAAvk/8a5Qt94UggY/s128/mawardiib.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_suryaniwahab">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-fG2UdKHemGk/VUtRJ-HkQuI/AAAAAAAABJk/WZdz9mnDaHs/s128/suryaniwahab.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_asmawatijohan">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_asmawatijohan</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_asmawatijohan</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_elawatikelana">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-lf_ASXUfBA8/VUtEw9nAWnI/AAAAAAAAApU/PfJ-ZKtjoAE/s128/elawatikelana.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_muntasir">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-7jjsjFjSE0s/VUtJ8YaF6QI/AAAAAAAAA3o/TGdTAYYK4-g/s128/muntasir.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_abdmanafwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-KYRwGVPPwp0/VUtBrpih_UI/AAAAAAAAAjM/nQafblGiXRE/s128/abdmanafwife.png]</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_muliono">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-mUJpwIdE4R4/VUtF85ufW7I/AAAAAAAAAsQ/LkYE3Yx8sH0/s128/muliono.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_yusmawatiraden">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-igeQWYJNV-E/VUtN3MYyGHI/AAAAAAAABAs/A91Ze8mqa2M/s128/yusmawatiraden.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_sabirin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sabirin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sabirin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_midarulfadli">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-OKbZRi7mBvE/VUtOKw1NhPI/AAAAAAAABBw/IIvFGoHhWTI/s128/midarulfadli.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_abdmanafwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-KYRwGVPPwp0/VUtBrpih_UI/AAAAAAAAAjM/nQafblGiXRE/s128/abdmanafwife.png]</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_munsahwi">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-I5kD9_AYm60/VUtHtW8fr6I/AAAAAAAAAx4/rWwSs6JayMo/s128/munsahwi.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_nazarerniwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-3tXd9oCEmvE/VUtNQw06SjI/AAAAAAAAA_I/mU6mopSN1ak/s128/nazarerniwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>331aebff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_zulkifliabd">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-74FhsMNbaCU/VUtFQGEqF0I/AAAAAAAAAqY/m9iNFbwp-zg/s100/zulkifliabd.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_dufni">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-FM6MMOlz6Js/VUtQXzv0YcI/AAAAAAAABHY/-EU9OHxu-L4/s128/dufni.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_myunuspasiwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-AKc3HwCaYgM/VUtEZlUQm7I/AAAAAAAAAoI/MtEDk53GffE/s128/myunuspasiwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_mawardiib">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_mawardiib</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_mawardiib</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_muliono">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_muliono</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_muliono</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_aderizalfadliwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-BLt-Iyyq5-g/VUtMeze5eFI/AAAAAAAAA8s/GBLBDuv2v_4/s128/aderizalfadliwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_maminbbnwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-1gsrRSb0Qxs/VUtJZ3n2JiI/AAAAAAAAA1k/SD6EYwmJung/s128/maminbbnwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_arsyadheriwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arsyadheriwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arsyadheriwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_zainalabidinmala">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-I2Q0Rd6sOPU/VUtPGpogUvI/AAAAAAAABEY/i5FOhyyTSDo/s128/zainalabidinmala.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_asmawatijohan">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-yA7_vnWZ50Q/VUtCmqMHddI/AAAAAAAAAlA/oIQ0-P0MKio/s128/asmawatijohan.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_painowife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_painowife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_painowife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arjuna">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-C7IDis7heJg/VUtIRoTss3I/AAAAAAAAAzs/SdMiD44HIhs/s128/arjuna.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_iswandarrusli">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-qijVRbg1GPY/VUtP_zJNa5I/AAAAAAAABGI/a4gl9YLc47U/s128/iswandarrusli.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_asminirahman">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_asminirahman</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_asminirahman</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_aderizalfadliwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-BLt-Iyyq5-g/VUtMeze5eFI/AAAAAAAAA8s/GBLBDuv2v_4/s128/aderizalfadliwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_elawatikelana">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-lf_ASXUfBA8/VUtEw9nAWnI/AAAAAAAAApU/PfJ-ZKtjoAE/s128/elawatikelana.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_asminirahman">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-ox6_UddGOQE/VVa7-mtTVxI/AAAAAAAABfg/PYEyx8fABFs/s128/asminirahman.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_julitahusband">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-nXuCgBqV56U/VUtKaI4qn_I/AAAAAAAAA4w/48uwSra2VOQ/s128/julitahusband.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_tzulmaliwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-aG0THlyanDg/VUtLdCShVaI/AAAAAAAAA5k/6iei8AZQMbI/s128/tzulmaliwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>331aebff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_elawatikelana">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_elawatikelana</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_elawatikelana</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arjuna">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-C7IDis7heJg/VUtIRoTss3I/AAAAAAAAAzs/SdMiD44HIhs/s128/arjuna.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_zainalabidinmala">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-I2Q0Rd6sOPU/VUtPGpogUvI/AAAAAAAABEY/i5FOhyyTSDo/s128/zainalabidinmala.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_zulfianahmadwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-OTRodMIvBxI/VUtRxwiIW4I/AAAAAAAABLQ/94Cxzpsp5cU/s128/zulfianahmadwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_muntasir">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_muntasir</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_muntasir</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sabirin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-f3XA_HhgxSs/VUtSEPEbvQI/AAAAAAAABMI/8VTSDTUX9Fs/s128/sabirin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>a6a221ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_munsahwi">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-I5kD9_AYm60/VUtHtW8fr6I/AAAAAAAAAx4/rWwSs6JayMo/s128/munsahwi.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_zulfianahmadwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-OTRodMIvBxI/VUtRxwiIW4I/AAAAAAAABLQ/94Cxzpsp5cU/s128/zulfianahmadwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>3313ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_abdmanafwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_abdmanafwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_abdmanafwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_maminbbnwife">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_maminbbnwife</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_maminbbnwife</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_suryaniwahab0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_suryaniwahab0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_suryaniwahab0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_alawiyah">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-HNRuGd6KpII/VUtFoX4Iy5I/AAAAAAAAArU/aO0aOXkzgPE/s128/alawiyah.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_suryaniwahab">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_suryaniwahab</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_suryaniwahab</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_hanafiwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-ro9gKKYlhBI/VUtGQq8OJpI/AAAAAAAAAtM/r-gU18uBlek/s128/hanafiwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>80eeff21</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_arsyadheriwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-AM4Ud42CDqE/VUtMMCovRKI/AAAAAAAAA74/BB1Nv_k-_Ks/s100/arsyadheriwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_mahdicekmatwife">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-GAvNAxfGU-M/VUtHQzpyulI/AAAAAAAAAwo/NVOW09YIuH8/s128/mahdicekmatwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>d9152bff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_dewijulita">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-71ij45fTnvY/VUtOX0PL1MI/AAAAAAAABCc/ziN62ALyXEw/s100/dewijulita.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_umarwife">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-X0Ia16b37C8/VUtBPOnIfSI/AAAAAAAAAiE/97DU5cioUkY/s128/umarwife.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>4d13ff9e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Ketapang</name>
+		<open>1</open>
+		<Folder>
+			<name>1. Idris</name>
+			<Placemark>
+				<name>Idris</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-OXUp8BDa5PU/VUtM_6QQi9I/AAAAAAAAA-U/xUr4PgWBB6w/s512/Indris.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57704717594277</longitude>
+					<latitude>4.631690020609697</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00020481972850941</heading>
+					<tilt>45.37621118617135</tilt>
+					<range>198.4894639184841</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_tzulmaliwife0</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57693495053987,4.631939448777284,30</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>2. Ori. Dewi Jelita</name>
+			<Placemark>
+				<name>Dewi Jelita</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-0L_3YH2piII/VUtOX4QNotI/AAAAAAAABCg/wzzs9WGq5h8/s512/Julita.jpg"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh4.googleusercontent.com/-D8VpXjJ246E/VVSBLYUi3OI/AAAAAAAABZk/k5WEXVR_qjU/s100-no/front%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Front House: Original structure
+<img src="https://lh3.googleusercontent.com/-HIc_pvGUXd4/VUtOX-UquOI/AAAAAAAABCk/_XABkuJw0dA/s512/Julite.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57687135700459</longitude>
+					<latitude>4.632339118592936</latitude>
+					<altitude>0</altitude>
+					<heading>-6.795572223041295e-05</heading>
+					<tilt>56.33643690385689</tilt>
+					<range>292.4006507536415</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_dewijulita</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57685302830251,4.631876402512564,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>3. Asmini Rahman</name>
+			<Placemark>
+				<name>Asmini Rahman</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/--Bk3yyfml7k/VVa798HJ-NI/AAAAAAAABfc/8LsYXM_G9zw/s512/IMG_1015.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh5.googleusercontent.com/-B-ePpHBCbpM/VVRgNgQggwI/AAAAAAAABWQ/T-F8Qt6j1Po/s51-no/stair.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-UVyZwOE0Gj4/VVa79q58z0I/AAAAAAAABfQ/Iil9AeYIIjQ/s512/IMG_1014.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-zPfSagyD8OM/VVa79zqPARI/AAAAAAAABfY/95IFBPwDGWM/s512/IMG_1017.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.5754811144545</longitude>
+					<latitude>4.63373764835038</latitude>
+					<altitude>0</altitude>
+					<heading>-6.363278602003631e-06</heading>
+					<tilt>54.26139573151881</tilt>
+					<range>408.2742855885308</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_asminirahman</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57589563918189,4.632598223052055,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>3. Ilyas Adnan</name>
+			<Placemark>
+				<name>Ilyas Adnan (Wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-2OwcxkzV778/VUtLu7mLRbI/AAAAAAAAA6Q/J77xlPrS4Qo/s640/IMG_0963.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/s1O48ZNICdOcbbFCKUu5L3d5b_eEq6ETYKzFFSGKGnQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling:Leak and broken
+<br>
+<img src="https://lh3.googleusercontent.com/-rP2Y7LWC2kw/VUtLvwWLAeI/AAAAAAAAA6s/D8Gcshv75tE/s640/IMG_0964.JPG"/width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-ULcr4pWq-Aw/VUtLvLLQ1oI/AAAAAAAAA6c/GAXlsk_lUlM/s640/IMG_0957.JPG"/width = "200px">
+<br>
+<img src="https://lh3.googleusercontent.com/-IuTwL3J6tqA/VUtLwSxEwNI/AAAAAAAAA60/fIGFHTskz9g/s640/IMG_0967.JPG"/width = "200px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Moved inside
+<br>
+<img src="https://lh3.googleusercontent.com/-oh7ZPHpen8w/VUtLwGji0MI/AAAAAAAAA6w/qplzEIppCXM/s640/IMG_0965.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57796452621055</longitude>
+					<latitude>4.632777830525078</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002578994412326078</heading>
+					<tilt>20.77304162304119</tilt>
+					<range>711.6945010339282</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ilyasadan</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57634471365178,4.632921669945103,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>4. Sabirin</name>
+			<Placemark>
+				<name>Sabirin</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="45px">
+<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+Gable: Broken<br>
+Window: Broken, Changed
+<img src="https://lh3.googleusercontent.com/-Eyb9vpqYk5A/VUtSEMOFFOI/AAAAAAAABMA/eODdlwOS5cI/s512/Sabrin.jpg"/ width = "200px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/s1O48ZNICdOcbbFCKUu5L3d5b_eEq6ETYKzFFSGKGnQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling: Broken<br>
+<img src="https://lh3.googleusercontent.com/-byJthHCCXKk/VUtSEZWezyI/AAAAAAAABME/cdvD9gKsMeo/s512/Sabirin.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57634046954153</longitude>
+					<latitude>4.633775217308009</latitude>
+					<altitude>0</altitude>
+					<heading>0.06596343965920323</heading>
+					<tilt>60.00547313541443</tilt>
+					<range>678.237867905069</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_sabirin</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57595229044313,4.631876495918617,90</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>4. Asyiah Bin Arsyad</name>
+			<Placemark>
+				<name>Asyiah Bin Arsyad</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-AIui4gJeFK0/VUtDLNxCjII/AAAAAAAAAl4/-q5ndusMdWE/s640/IMG_0981.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Missing some partition<br>
+<img src="https://lh3.googleusercontent.com/-C9USDSE_w_4/VUtDLFXQWcI/AAAAAAAAAls/pNQCR2vZIBA/s640/IMG_0984.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/s1O48ZNICdOcbbFCKUu5L3d5b_eEq6ETYKzFFSGKGnQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling: Wood peeling<br>
+<img src="https://lh3.googleusercontent.com/-zUhWuy3XV2Y/VUtDMcAVvxI/AAAAAAAAAmE/FKFIoZUqC_Y/s640/IMG_0989.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair:Moved inside<br>
+<img src="https://lh3.googleusercontent.com/-yLEsjrJ-Sr8/VUtDLKqY5hI/AAAAAAAAAlw/jwTMHU2zP0I/s640/IMG_0987.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57706407273953</longitude>
+					<latitude>4.631950680569593</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000673650957405625</heading>
+					<tilt>53.19774031737482</tilt>
+					<range>717.3419277052245</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_asyiahbintirasyid</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57561982302937,4.632325918775284,90</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>5. Arjuna</name>
+			<Placemark>
+				<name>Arjuna</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-i1bagp0noSU/VUtIQPEE85I/AAAAAAAAAzM/VUFv3Q2FXH0/s640/IMG_1005.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/s1O48ZNICdOcbbFCKUu5L3d5b_eEq6ETYKzFFSGKGnQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling: wood peeling<br>
+<img src="https://lh3.googleusercontent.com/-5syoNYYIkog/VUtIRtWSNFI/AAAAAAAAAzo/7RwWEprXdKo/s640/IMG_1009.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh4.googleusercontent.com/-D8VpXjJ246E/VVSBLYUi3OI/AAAAAAAABZk/k5WEXVR_qjU/s100-no/front%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Front House: Balcony broken<br>
+<img src="https://lh3.googleusercontent.com/-dMvPdnUyRt0/VUtIRQzH2MI/AAAAAAAAAzg/D_aj9zOLCwA/s640/IMG_1008.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Outside house, no roof<br>
+<img src="https://lh3.googleusercontent.com/-fCR1xLRb29c/VUtIQNybC6I/AAAAAAAAAzU/9h75iXxgINY/s640/IMG_1006.JPG"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Moved inside<br>
+<img src="https://lh3.googleusercontent.com/-EnU3FTYyKQ0/VUtIQN1gbFI/AAAAAAAAAzQ/dLdHKdlFL14/s640/IMG_1007.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57741857209614</longitude>
+					<latitude>4.633308484555228</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001182750146435853</heading>
+					<tilt>56.11671155335384</tilt>
+					<range>795.9213868767393</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_arjuna</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57576847012513,4.631868166058691,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>5. Muntasir</name>
+			<Placemark>
+				<name>Muntasir</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-x0uhZwCvE1w/VUtJ6WFponI/AAAAAAAAA3I/rjNMtRYQKtw/s640/IMG_1082.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: some sparepart broken<br>
+<img src="https://lh3.googleusercontent.com/-ggdNeHJ7E_M/VUtJ6fig18I/AAAAAAAAA3Q/V-cS4ZFNyEY/s640/IMG_1080.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh6.googleusercontent.com/-Fr6tdkldJw8/VVRgOrb4MSI/AAAAAAAABWk/oIO_c9lAiso/s100-no/well.pngg"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Well: Broken<br>
+<img src="https://lh3.googleusercontent.com/-JiyPhjxoFno/VUtJ7Xeb32I/AAAAAAAAA3g/fo0UmRv1FVY/s640/IMG_1083.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Outside house, no roof<br>
+<img src="https://lh3.googleusercontent.com/-M8-6E-LYhvY/VUtJ7gIxeQI/AAAAAAAAA3k/jLo4j6I7wyk/s640/IMG_1084.JPG"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<img src="https://lh3.googleusercontent.com/-fyXQPnmM1hA/VUtJ6bEuEuI/AAAAAAAAA3M/1_s8xQlInuA/s640/IMG_1081.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57808902396421</longitude>
+					<latitude>4.63291848377542</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001432688941611444</heading>
+					<tilt>56.39784170450751</tilt>
+					<range>940.5894684229177</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_muntasir</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57632309857098,4.632300358023173,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Abdul Manaf (Wife)</name>
+			<Placemark>
+				<name>Abdul Manaf Wife</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Broken
+<img src="https://lh3.googleusercontent.com/-kEJ9zRA4kU8/VUtBquOXFDI/AAAAAAAAAjE/a0a8l3Dgs-0/s640/IMG_0977.JPG"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Broken<br>
+House: Extended
+<img src="https://lh3.googleusercontent.com/-gi4M0IHchYk/VUtBqg1RboI/AAAAAAAAAjI/EYXrezvXncg/s640/IMG_0979.JPG"/ width = "200px">]]></description>
+				<Camera>
+					<longitude>95.57656480418294</longitude>
+					<latitude>4.624081764505873</latitude>
+					<altitude>582.7953677463596</altitude>
+					<heading>12.34479300164826</heading>
+					<tilt>58.81777027799934</tilt>
+					<roll>0.6014057502141081</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_abdmanafwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57639461160588,4.632949491714159,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ade Rizal (wife)</name>
+			<Placemark>
+				<name>Ade Rizal (wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-rMFHo8Z8DGI/VUtMeyLslKI/AAAAAAAAA8o/n6tWigz1AHI/s512/Evaaaaaa.jpg"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: wood peeling
+<img src="https://lh3.googleusercontent.com/-WHwke8IGdqQ/VUtMe3FHAwI/AAAAAAAAA8k/VRDAs3Zyttc/s512/Eeevaaa.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57753441866755</longitude>
+					<latitude>4.631102197202678</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002156956556303518</heading>
+					<tilt>52.21406910302431</tilt>
+					<range>376.4809483992408</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_aderizalfadliwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57676263078476,4.632095462542863,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Alawiyah</name>
+			<Placemark>
+				<name>Alawiyah</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak
+<br>
+<img src="https://lh3.googleusercontent.com/-hex6VM6QBrk/VUtFnVmt86I/AAAAAAAAArE/yaqTZpLCBVI/s640/IMG_1053.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Permanent
+<br>
+<img src="https://lh3.googleusercontent.com/-4O_bahEHBmI/VUtFnh-zL0I/AAAAAAAAArM/XJviBKBo14I/s640/IMG_1051.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-ulE5GTlzrU4/VUtFnT4n1bI/AAAAAAAAArQ/AUKObHoce9g/s640/IMG_1052.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57781677680083</longitude>
+					<latitude>4.631805845041703</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0006320193167787684</heading>
+					<tilt>55.30856124621383</tilt>
+					<range>745.9006390328359</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_alawiyah</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57554425576593,4.632164740899228,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Arsyad Heri (wife)</name>
+			<Placemark>
+				<name>Arsyad Heri (wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof:leak <br>
+<img src="https://lh3.googleusercontent.com/-pf2ZmI4Hjds/VUtMMIUM7DI/AAAAAAAAA70/u7JbcolkmqE/s512/arsyad%252520%2525281%252529.jpg"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House:Extended
+<img src="https://lh3.googleusercontent.com/-5X6nDkXQhxA/VUtMMRoTWKI/AAAAAAAAA78/RMArWMD1_5c/s512/arsyad%252520%2525282%252529.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57454886279871</longitude>
+					<latitude>4.631274540335694</latitude>
+					<altitude>0</altitude>
+					<heading>5.073008312416593e-05</heading>
+					<tilt>53.77659527886394</tilt>
+					<range>739.9975306346356</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_arsyadheriwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57608202987834,4.631680928170388,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Asmawati Johan</name>
+			<Placemark>
+				<name>Asmawati Johan</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracking
+<br>
+<img src="https://lh3.googleusercontent.com/-0BNV1m6-yy0/VUtClgCuvNI/AAAAAAAAAkw/-lwFTfvnDhQ/s640/IMG_0949.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Moved inside
+<br>
+<img src="https://lh3.googleusercontent.com/-sscjztrtX0s/VUtCl7MCtyI/AAAAAAAAAk8/4N5w8F0UCYs/s640/IMG_0945.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-Qr_nEtt0fTw/VUtCl2pTcII/AAAAAAAAAk4/GQAMpOsHf8E/s640/IMG_0944.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57896704657003</longitude>
+					<latitude>4.63262863616968</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0004038547903945122</heading>
+					<tilt>50.48719838972345</tilt>
+					<range>705.9600294585616</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_asmawatijohan</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57570802110854,4.632411088081274,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Dufni</name>
+			<Placemark>
+				<name>Dufni</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken <br>
+<img src="https://lh3.googleusercontent.com/-AP0v-tOmQ7k/VUtQWpQ-xcI/AAAAAAAABG4/cQJm7gMRy1A/s512/IMG_1129.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/s1O48ZNICdOcbbFCKUu5L3d5b_eEq6ETYKzFFSGKGnQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling: Broken<br>
+<img src="https://lh3.googleusercontent.com/-JHNg7k84jWg/VUtQXp5wtKI/AAAAAAAABHQ/tflyLp33zwE/s512/IMG_1134.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh5.googleusercontent.com/-B-ePpHBCbpM/VVRgNgQggwI/AAAAAAAABWQ/T-F8Qt6j1Po/s51-no/stair.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Broken<br>
+<img src="https://lh3.googleusercontent.com/-rLnOgN9BQvI/VUtQXSnh2AI/AAAAAAAABHE/Yqppp9xiNT8/s512/IMG_1131.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh4.googleusercontent.com/-D8VpXjJ246E/VVSBLYUi3OI/AAAAAAAABZk/k5WEXVR_qjU/s100-no/front%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Front House: Balcony broken<br>
+<img src="https://lh3.googleusercontent.com/-4CW_tm83EOM/VUtQWuvJHlI/AAAAAAAABHU/l8O_bu3dhTA/s512/IMG_1128.JPG"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-NoajOG7UF5s/VUtQW0Age9I/AAAAAAAABHM/fM2oYt51cfU/s512/IMG_1130.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57686194920224</longitude>
+					<latitude>4.63293273341078</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002042391772165091</heading>
+					<tilt>55.01719038898</tilt>
+					<range>645.4466026946343</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_dufni</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.5761945587037,4.631643003511198,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Elawati Kelana</name>
+			<Placemark>
+				<name>Elawati Kelana</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-aZ34drILAwc/VUtEw8IdG1I/AAAAAAAAApQ/V6YnqS3cZBg/s640/IMG_0956.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Permanent, moved inside
+<br>
+<img src="https://lh3.googleusercontent.com/-eatEXKBZjX4/VUtEv4zO2JI/AAAAAAAAApM/0cRZdcPPJzY/s640/IMG_0952.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-uzsgui5UT54/VUtEwKKcdxI/AAAAAAAAApI/2HWD-Lx4DmI/s640/IMG_0955.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57761197716107</longitude>
+					<latitude>4.63194404245395</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0006509503408078781</heading>
+					<tilt>55.35983110962015</tilt>
+					<range>660.3711659045539</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_elawatikelana</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57517326030809,4.632050948658183,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Faisal Ramli</name>
+			<Placemark>
+				<name>Faisal Ramli</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/FjwvPS_WvmU/w100-h82-no/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Structure: Crack<br> 
+<img src="https://lh3.googleusercontent.com/-iwucfzSpH1U/VUtPvXqKtkI/AAAAAAAABFI/con1NcDZZyY/s512/IMG_1111.JPG"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<img src="https://lh3.googleusercontent.com/-ZV-D1dQqZB8/VUtPvQHpqoI/AAAAAAAABFM/vITN00Kouag/s512/IMG_1110.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57615169230496</longitude>
+					<latitude>4.631327716876803</latitude>
+					<altitude>0</altitude>
+					<heading>0.000111295842663194</heading>
+					<tilt>54.56061159543056</tilt>
+					<range>374.4052932383184</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_faisalramli</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57618951478042,4.632021378221956,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Hanafi (Wife)</name>
+			<Placemark>
+				<name>Hanafi (Wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-BAn6X3bTbvY/VUtGPr5_gzI/AAAAAAAAAs8/h5UKTjZbn-w/s640/IMG_1039.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/aiJXfopU9QRNYp6PuIVisNKZc_Jed9Ma53LFnJYXd5c=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Toilet: Original condition
+<br>
+<img src="https://lh3.googleusercontent.com/-NNAdwUtE65w/VUtGPh-Y8nI/AAAAAAAAAtA/T9XAn_Uy8Ak/s640/IMG_1041.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Small broken
+<br>
+<img src="https://lh3.googleusercontent.com/-QAfuZ6Fx2HI/VUtGPuVmfhI/AAAAAAAAAtE/mph2Dt1pa_4/s640/IMG_1040.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57745820973233</longitude>
+					<latitude>4.631995399683845</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0007011870115202322</heading>
+					<tilt>56.20505165618415</tilt>
+					<range>600.0706685132815</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_hanafiwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57589796739879,4.632220245308459,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Iswandar Rusli</name>
+			<Placemark>
+				<name>Iswandar Rusli</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-quwuTHsBOLo/VUtP_PxsYqI/AAAAAAAABF4/FmYUtvCmw5A/s512/IMG_1143.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Off
+<br>
+<img src="https://lh3.googleusercontent.com/--QgWyiE6DD4/VUtP_EIyU9I/AAAAAAAABGA/bsQ5qAaozs4/s512/IMG_1144.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-HEHC8sMGcyI/VUtP_VpqAcI/AAAAAAAABF8/HS9LjzGv9kM/s512/IMG_1141.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57659527250973</longitude>
+					<latitude>4.630451324687627</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001499009704939417</heading>
+					<tilt>54.54669889362785</tilt>
+					<range>502.3926733656626</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_iswandarrusli</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57669822808398,4.631787985427617,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Julita</name>
+			<Placemark>
+				<name>Julita</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-X_pvI0saCd8/VUtKZeyANJI/AAAAAAAAA40/41DhaGj5XL0/s640/Sanusi%252520Daud%252520%2525282%252529.jpg"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House:Extended
+<img src="https://lh3.googleusercontent.com/-Q-qX5o4erQU/VUtKZCXUOpI/AAAAAAAAA4k/6sHhxoXmNdY/s640/Sanusi%252520Daud%252520%2525281%252529.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57682144381593</longitude>
+					<latitude>4.633948629254189</latitude>
+					<altitude>0</altitude>
+					<heading>0.8473744417944519</heading>
+					<tilt>55.49111957223082</tilt>
+					<range>670.8509367104855</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_julitahusband</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57644507348843,4.632060361870312,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Kusmiati UB</name>
+			<Placemark>
+				<name>Kusmiati UB</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-yXpNx86UVQQ/VUtI3KGh-xI/AAAAAAAAA0k/CN0MK9bpq5Y/s640/IMG_1021.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Lose some parts
+<br>
+<img src="https://lh3.googleusercontent.com/-8xx0ej-3jhA/VUtI3Z4ySjI/AAAAAAAAA0w/JCMuQZqITU8/s640/IMG_1020.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-EV_WRG5ZYSc/VUtI3fG8h6I/AAAAAAAAA0s/tppFsGcnrj0/s640/IMG_1019.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57721779037111</longitude>
+					<latitude>4.632371978780601</latitude>
+					<altitude>0</altitude>
+					<heading>8.440040128998668e-05</heading>
+					<tilt>56.26446843776313</tilt>
+					<range>567.5247671030875</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_kusmiatiub</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57597703418003,4.632023047111682,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>5. Mahdi Cek Mat (Wife)</name>
+			<Placemark>
+				<name>Mahdi Cek Mat (wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-ujP9zY0xrqs/VUtHPm051qI/AAAAAAAAAwQ/HcVuRGLI4XY/s512/IMG_0970.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/0-Ix423xzBL74Y1nSqxkj6IA-rLbX56VTCnPLNxnjfU=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: wood peeling<br>
+<img src="https://lh3.googleusercontent.com/-1kaIk7-KHrI/VUtHQg5-EfI/AAAAAAAAAws/u0OVs7Jzml0/s512/IMG_0972.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh4.googleusercontent.com/-D8VpXjJ246E/VVSBLYUi3OI/AAAAAAAABZk/k5WEXVR_qjU/s100-no/front%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Front House: Balcony still use<br>
+<img src="https://lh3.googleusercontent.com/-1TQY5Pz7sSE/VUtHPiQqM5I/AAAAAAAAAwU/xFuexzYcpEU/s512/IMG_0971.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-j-iHQPvJ2ks/VUtHPrSu6PI/AAAAAAAAAwg/q8C4W93bp2s/s512/IMG_0969.JPG"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Front House: Balcony broken<br>
+<img src="https://lh3.googleusercontent.com/-OgchWXrU6Ms/VUtHQ_iZx6I/AAAAAAAAAww/Bo5xhrawKec/s512/IMG_0973.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57614436874415</longitude>
+					<latitude>4.63403871205047</latitude>
+					<altitude>0</altitude>
+					<heading>0.000121887523879617</heading>
+					<tilt>49.87413932967251</tilt>
+					<range>1047.553117864331</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_mahdicekmatwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.5760399350408,4.632301124575249,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>2. M Amin (wife)</name>
+			<open>1</open>
+			<Placemark>
+				<name>M Amin (wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-tJ4kCmjhxGc/VUtJZ4BDmsI/AAAAAAAAA1o/lOuRMQUfu8A/s640/IMG_1043.JPG"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Moved inside
+<img src="https://lh3.googleusercontent.com/-CTEsHF3uawE/VUtJZ7Pwo7I/AAAAAAAAA1s/1iTbtlSIQg4/s640/IMG_1045.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.5762583863069</longitude>
+					<latitude>4.632466834976672</latitude>
+					<altitude>0</altitude>
+					<heading>-1.55057172984647e-05</heading>
+					<tilt>59.02342459595068</tilt>
+					<range>567.2733588251996</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_maminbbnwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.5763334359887,4.632377741662903,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Marnila</name>
+			<Placemark>
+				<name>Marnila</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br>
+<img src="https://lh3.googleusercontent.com/-0fMosa9pWNM/VVXSfLWa2rI/AAAAAAAABd0/VRoj23VQ9WE/s512/IMG_1087.JPG"/ width = "200px">
+<img src="https://lh3.googleusercontent.com/-MYKcsbkoRvY/VVXSgEoNeWI/AAAAAAAABeM/mN8rl66hYGo/s512/IMG_1089.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/0-Ix423xzBL74Y1nSqxkj6IA-rLbX56VTCnPLNxnjfU=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: off<br>
+<img src="https://lh3.googleusercontent.com/-iEeyuYSzoM0/VVXSfZRsrzI/AAAAAAAABeA/I6SHBT6u3yk/s512/IMG_1086.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-jwwpR0k0efs/VVXSfItj2XI/AAAAAAAABeE/TcIe13yhtyY/s512/IMG_1088.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57599995664451</longitude>
+					<latitude>4.633704572033285</latitude>
+					<altitude>0</altitude>
+					<heading>0.8475367062396216</heading>
+					<tilt>55.261364239953</tilt>
+					<range>666.6990692931499</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_marnila</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57647296801247,4.632064130661095,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Mawardi</name>
+			<Placemark>
+				<name>Mawardi</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-a3PRce14yPw/VUtG9ZY1zxI/AAAAAAAAAvU/owZaBCCMhGA/s640/IMG_1023.JPG"/ width = "200px">
+<img src="https://lh3.googleusercontent.com/-xTs54xHnHsA/VUtG9UUqoDI/AAAAAAAAAvY/iNLVE-390R0/s640/IMG_1024.JPG"/ width = "200px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-EV_WRG5ZYSc/VUtI3fG8h6I/AAAAAAAAA0s/tppFsGcnrj0/s640/IMG_1019.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57673228886379</longitude>
+					<latitude>4.633921381060299</latitude>
+					<altitude>0</altitude>
+					<heading>0.8472283567775495</heading>
+					<tilt>55.62039137757254</tilt>
+					<range>503.5740347235853</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_mawardiib</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57616480859988,4.632676080321892,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Midarul Fadli</name>
+			<Placemark>
+				<name>Midarul Fadli</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-MKhk0ly6isE/VUtOKkG0LuI/AAAAAAAABBs/C89E2-hUiqs/s512/Middarul.jpg"/ width = "200px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh5.googleusercontent.com/-fMMGIXs4GEE/VVR-Yd52P4I/AAAAAAAABY4/FjwvPS_WvmU/w100-h82-no/cincrete2.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Concrete:Small crack
+<br>
+<img src="https://lh3.googleusercontent.com/-jB5MwOGZ2nE/VUtOK2KJI1I/AAAAAAAABB0/qmvWPpzWnPE/s512/Miidarul.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57687135544909</longitude>
+					<latitude>4.632339116934665</latitude>
+					<altitude>0</altitude>
+					<heading>-6.795584776775104e-05</heading>
+					<tilt>56.33643690445529</tilt>
+					<range>292.4007273648677</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_midarulfadli</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57674015966396,4.631797248380402,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>M Nur Juned (wife)</name>
+			<Placemark>
+				<name>M Nur Juned (wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-Ay5oHa_uMdY/VUtRZ9vmBcI/AAAAAAAABKU/QeSoLYcItds/s512/IMG_1126.JPG"/ width = "200px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh5.googleusercontent.com/-QltqVjy6w14/VVRgO9-i_yI/AAAAAAAABWo/taYWCPNvvd4/s51-no/window.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Lose some wood
+<br>
+<img src="https://lh3.googleusercontent.com/-vv_mgMsj5QE/VUtRaPXilRI/AAAAAAAABKY/3PSe9xWxpok/s512/IMG_1125.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57654567359771</longitude>
+					<latitude>4.632835022654138</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002650329599560894</heading>
+					<tilt>56.07428309010721</tilt>
+					<range>637.6598180804798</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_suryaniwahab0</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57699635151386,4.631803171763844,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Mukhtarudin</name>
+			<Placemark>
+				<name>Mukhtarudin</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-M_8N6Q0Tzc4/VUtQzhx_woI/AAAAAAAABIg/Pc6LeDcRWKQ/s512/IMG_1120.JPG"/ width = "200px">
+<img src="https://lh3.googleusercontent.com/-Lk_3_ciKyKA/VUtQ0KykuEI/AAAAAAAABIo/LagrckNA-YY/s512/IMG_1123.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Changing<br>
+<img src="https://lh3.googleusercontent.com/-ugf3XEQcbUM/VUtQziq0IWI/AAAAAAAABIY/FeWvG7CrKf8/s512/IMG_1121.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-oYt4RgAq0V8/VUtQzuOiG8I/AAAAAAAABIc/ViRQaNM49qM/s512/IMG_1119.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57649550116977</longitude>
+					<latitude>4.63391528670418</latitude>
+					<altitude>0</altitude>
+					<heading>0.8455727176776228</heading>
+					<tilt>57.4102297246778</tilt>
+					<range>653.0098069919206</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_muchtarudin</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57635183683574,4.632003168040401,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Muliono</name>
+			<Placemark>
+				<name>Muliono</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak
+<br>
+<img src="https://lh3.googleusercontent.com/-k6of_v_yFRE/VUtF7zsgXPI/AAAAAAAAAsM/XAxG_JDiLYI/s640/IMG_1049.JPG"/ width = "200px">
+<img src="https://lh3.googleusercontent.com/-rtE7FMvh30o/VUtF7wp-OnI/AAAAAAAAAsA/Hghk3RxQMgE/s640/IMG_1047.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/0-Ix423xzBL74Y1nSqxkj6IA-rLbX56VTCnPLNxnjfU=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Off
+<br>
+<img src="https://lh3.googleusercontent.com/-ThcxWAoMkPo/VUtF76IdZDI/AAAAAAAAAsI/vYdMF3NRx34/s640/IMG_1048.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57629048730237</longitude>
+					<latitude>4.633576811921597</latitude>
+					<altitude>0</altitude>
+					<heading>0.8453454073819959</heading>
+					<tilt>57.66137391185985</tilt>
+					<range>412.4816251293471</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_muliono</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57571406307754,4.632287860326782,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Munsahwi</name>
+			<Placemark>
+				<name>Munsahwi</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-VJt-dsJlucE/VUtHsVGkMhI/AAAAAAAAAxo/VGQFlfCl1B0/s640/IMG_1028.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh4.googleusercontent.com/-D8VpXjJ246E/VVSBLYUi3OI/AAAAAAAABZk/k5WEXVR_qjU/s100-no/front%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Fron House: Balcony broken<br>
+<img src="https://lh3.googleusercontent.com/-sjZShsyFF1c/VUtHstdxayI/AAAAAAAAAxw/GubEliaMSwM/s640/IMG_1029.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-E7QcKmXNL3Q/VUtHsbOqjDI/AAAAAAAAAx0/XQW7sRG5OkA/s640/IMG_1030.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57621109516303</longitude>
+					<latitude>4.634002314612846</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001271258672840179</heading>
+					<tilt>50.66983116889818</tilt>
+					<range>941.1806292050468</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_munsahwi</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57586358759279,4.632126145307813,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>M Yunus (wife)</name>
+			<Placemark>
+				<name>M Yunus (Wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-EhDw3sESyBs/VUtEYw07ZsI/AAAAAAAAAoM/95usR5YnQVI/s640/IMG_1064.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/dp522AyfGLAD0YP-cyZc6a2uKsVPv7Di7gzrvPg4q9k=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Broken<br>
+<img src="https://lh3.googleusercontent.com/-7vFR0TuyICk/VUtEZMCWlwI/AAAAAAAAAoE/4Pfrhjal3jM/s640/IMG_1062.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-7hCn3JQm1xw/VUtEY7mbSTI/AAAAAAAAAoA/jt1ubIOhTbc/s640/IMG_1061.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57780740394827</longitude>
+					<latitude>4.632231680779407</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0006282907255354255</heading>
+					<tilt>55.22408467551</tilt>
+					<range>735.0255351519689</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_myunuspasiwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57521946582227,4.632212561299919,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Nasir Andah (wife)</name>
+			<Placemark>
+				<name>Nasir Andah (wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br> 
+<img src="https://lh3.googleusercontent.com/-Dp-eghKuWLI/VUtICCaEsDI/AAAAAAAAAyo/SQq8GqtLdCw/s640/IMG_1026.JPG"/ width = "200px"><br>]]></description>
+				<LookAt>
+					<longitude>95.57748469635978</longitude>
+					<latitude>4.632918848957994</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001704832913026935</heading>
+					<tilt>57.96522046059281</tilt>
+					<range>702.5861243641889</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_mnasirandahwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57587600725913,4.631957528607368,30</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Nazar Erni (wife)</name>
+			<Placemark>
+				<name>Nazar Erni (wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br> 
+<img src="https://lh3.googleusercontent.com/-cM3l3aYLvlI/VUtNQ1RAXJI/AAAAAAAAA_A/ILLCxo_GJvQ/s512/Nazar%252520erniii.jpg"/ width = "200px"><br>]]></description>
+				<LookAt>
+					<longitude>95.57698883859318</longitude>
+					<latitude>4.631669211607385</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002094837101359902</heading>
+					<tilt>45.37633664528381</tilt>
+					<range>249.5391120452528</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_nazarerniwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57665303531074,4.631883704802856,30</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Nazir (wife)</name>
+			<Placemark>
+				<name>Nazir (wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-5n6iWSrI5Xo/VUtMxIz6pvI/AAAAAAAAA9Y/D7ePQhxTLZ4/s512/Nazir.jpg"/ width = "200px"><br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<img src="https://lh3.googleusercontent.com/-oLlDe8OZoug/VUtMxGumppI/AAAAAAAAA9k/hv-qB2XqSqE/s512/Naaaazir.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57749593039659</longitude>
+					<latitude>4.63062947246063</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002125648402141189</heading>
+					<tilt>52.21410818830799</tilt>
+					<range>381.9859429718771</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_nazirwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57638054779447,4.631803069658969,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Paino (wife)</name>
+			<Placemark>
+				<name>Paino (Wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/-D8VpXjJ246E/VVSBLYUi3OI/AAAAAAAABZk/k5WEXVR_qjU/s100-no/front%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Front House: Balcony broken<br>
+<img src="https://lh3.googleusercontent.com/-ZJCcvoI55HI/VUtDv0_x2sI/AAAAAAAAAm0/uVXGEje7EB4/s640/IMG_1032.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Lost some sparepart<br>
+<img src="https://lh3.googleusercontent.com/-dLnca_0em4w/VUtDxCed6uI/AAAAAAAAAnM/u_Kt9hbIM0k/s640/IMG_1035.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-wlYSCf7Pd7U/VUtDv1VQ0VI/AAAAAAAAAnE/4ScmTJIkQds/s640/IMG_1034.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57650372130131</longitude>
+					<latitude>4.633212215244404</latitude>
+					<altitude>0</altitude>
+					<heading>0.8439701184913768</heading>
+					<tilt>59.26890618072219</tilt>
+					<range>922.5859185763808</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_painowife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.5754847695847,4.63242103826927,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Samsul Masri (Wife)</name>
+			<Placemark>
+				<name>Samsul Masri (Wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br>
+<img src="https://lh3.googleusercontent.com/-Bm5a3t5FhK4/VUtGi_CY4QI/AAAAAAAAAuE/SqxkPMqEMek/s640/IMG_0997.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: cracked<br>
+<img src="https://lh3.googleusercontent.com/-5zbjrFsuc08/VUtGkJTu8aI/AAAAAAAAAuc/aHv1CK54R68/s640/IMG_1002.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/0-Ix423xzBL74Y1nSqxkj6IA-rLbX56VTCnPLNxnjfU=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: Wood peeling<br>
+<img src="https://lh3.googleusercontent.com/-JOV9YgE7nR4/VUtGi8vwhsI/AAAAAAAAAt8/1NgkGAOkfO0/s512/IMG_0998.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window:Lose some partition<br>
+<img src="https://lh3.googleusercontent.com/-xwlLFe8ftQU/VUtGkKcPTlI/AAAAAAAAAuY/spHS9lu5Cb8/s640/IMG_0999.JPG"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended<br>
+<img src="https://lh3.googleusercontent.com/-t-jfYL2I5Xg/VUtGi5oQsaI/AAAAAAAAAuA/dQfa-CgyjAw/s640/IMG_0995.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.5766223228789</longitude>
+					<latitude>4.63435350423157</latitude>
+					<altitude>0</altitude>
+					<heading>0.06619597575249733</heading>
+					<tilt>56.77681624778261</tilt>
+					<range>821.4942867930878</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_samsulmasri</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57615300728663,4.632370009407524,110</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sayed Dahlan (wife)</name>
+			<Placemark>
+				<name>Sayed Dahlan (wife)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-9aO2OoOZtOQ/VUtJrnAOt0I/AAAAAAAAA2c/nXQu7RDf734/s640/IMG_1076.JPG"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/jla2Lpw2VjBYIrDTK_QH_QPb5QiabifOepFNXYFLBUA=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Wall: Cracked
+<img src="https://lh3.googleusercontent.com/-druvLkjvKqU/VUtJrmmxVbI/AAAAAAAAA2g/DFhv6ZRtQyg/s640/IMG_1077.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57528935911418</longitude>
+					<latitude>4.632218554656335</latitude>
+					<altitude>0</altitude>
+					<heading>-7.503972616526454e-05</heading>
+					<tilt>58.17977672156285</tilt>
+					<range>512.0126011877531</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_sayeddahlanwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57560788659686,4.631906705954639,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sopian</name>
+			<Placemark>
+				<name>Sopian</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Lost some of partition<br> 
+<img src="https://lh3.googleusercontent.com/-22KEQsY6UaQ/VUtNhNh0i5I/AAAAAAAAA_0/iijwCUgtDEs/s512/Zainal%252520%2525283%252529.jpg"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<img src="https://lh3.googleusercontent.com/-Ok9KXfjIlLE/VUtNhTxT5MI/AAAAAAAAA_4/i3u8V_Jy2oM/s512/Zainal%252520%2525281%252529.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57694789002831</longitude>
+					<latitude>4.631386825610653</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002127875720635554</heading>
+					<tilt>45.37669212646293</tilt>
+					<range>305.1279475998197</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_sopian</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57651961725234,4.631668038797125,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Suryani Wahab</name>
+			<Placemark>
+				<name>Suryani Wahab</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak<br> 
+<img src="https://lh3.googleusercontent.com/-8cEqn9cwtGA/VUtRJ3lS7rI/AAAAAAAABJo/HAOjcCJZTUM/s512/IMG_1105.JPG"/ width = "200px">
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh5.googleusercontent.com/-B-ePpHBCbpM/VVRgNgQggwI/AAAAAAAABWQ/T-F8Qt6j1Po/s51-no/stair.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Broken
+<img src="https://lh3.googleusercontent.com/-1MrTlpZWaRs/VUtRJ9513JI/AAAAAAAABJg/_C8p6yJgoZ8/s512/IMG_1106.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57565562279933</longitude>
+					<latitude>4.634182615152207</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001931425140249194</heading>
+					<tilt>56.07427419353018</tilt>
+					<range>636.4660537690843</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_suryaniwahab</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57670485265643,4.631901130223714,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>T Zulmali (wife)</name>
+			<Placemark>
+				<name>T Zulmali (Wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="45px">
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken<br> 
+Housef: Extended<br> 
+<img src="https://lh3.googleusercontent.com/-VLcLjLTg1rk/VUtLdbAqtkI/AAAAAAAAA5o/CkaztHrIfFc/s640/T%252520zulmali.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.5772053565592</longitude>
+					<latitude>4.632915338645637</latitude>
+					<altitude>0</altitude>
+					<heading>0.06608360689344527</heading>
+					<tilt>60.0040168331381</tilt>
+					<range>334.4894937654516</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_tzulmaliwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57668145684931,4.632185591202521,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Umar (Wife)</name>
+			<Placemark>
+				<name>Umar (Wife)</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-OUfFSbxs7Fo/VUtBN0bMsVI/AAAAAAAAAhs/QELAGCELxUk/s640/IMG_1056.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh3.googleusercontent.com/J8V4QaSzzYJpS0057yeiJh56nUmMsCUpAtcPsn0BrAg=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Window: Lost some partition
+<br>
+<img src="https://lh3.googleusercontent.com/-4klVmD3EJeU/VUtBOFRh5RI/AAAAAAAAAh8/9PkSQmuJj0Q/s640/IMG_1055.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57721377692226</longitude>
+					<latitude>4.633845212294039</latitude>
+					<altitude>0</altitude>
+					<heading>0.06609965615001823</heading>
+					<tilt>59.15079777762151</tilt>
+					<range>676.9592939703283</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_umarwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57595758096279,4.632812609662549,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Wardaton Idami</name>
+			<Placemark>
+				<name>Wardaton Idami</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/tTJ7FIeP0bI/w52-h51-no/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-0Y6OdFqlnt4/VUtO1TJS_PI/AAAAAAAABDc/FFXEZqmh_Fg/s512/IMG_1107.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-5tE1dSTfvUU/VUtO1TflNsI/AAAAAAAABDY/t8ExsrU5Ajg/s512/IMG_1108.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57695259763398</longitude>
+					<latitude>4.631841059093872</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001334976616654001</heading>
+					<tilt>58.53847649112908</tilt>
+					<range>295.9649481956415</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wardatonidami</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.5769740712571,4.631816980616911,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Yusmawati Raden</name>
+			<Placemark>
+				<name>Yusmawati Raden</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-7esBR7R--So/VUtN3D0rchI/AAAAAAAABAw/WIbzHyz0M0k/s512/Raden%252520%2525283%252529.jpg"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh6.googleusercontent.com/-QqQ4nu0NXfc/VVRf7px-TWI/AAAAAAAABVY/u79oCMSaElU/w100-h98-no/extend%2Bhouse.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-cE-ZcRno3uo/VUtN3ZWHyCI/AAAAAAAABA0/Fu69QHm1IAE/s512/Raden%252520%2525282%252529.jpg"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57687135606538</longitude>
+					<latitude>4.632339114884449</latitude>
+					<altitude>0</altitude>
+					<heading>-6.795579733558391e-05</heading>
+					<tilt>56.33572296569863</tilt>
+					<range>292.4007209671772</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_yusmawatiraden</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57663572518857,4.631735618752763,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>3. Zainal Abidin Mala</name>
+			<Placemark>
+				<name>Zainal Abidin Mala</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-C1gn57tJnNQ/VVRv3HcpaoI/AAAAAAAABYY/fRvbDgL_crY/w100-h86-no/roof.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-74C8-QcCRN4/VUtPF5N35iI/AAAAAAAABEc/_7zVBK1dzdo/s512/IMG_1115.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh5.googleusercontent.com/-HhHWx8amqfs/VVRf7fI4-RI/AAAAAAAABVs/tTJ7FIeP0bI/w52-h51-no/door.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Door: Broken sparepart
+<br>
+<img src="https://lh3.googleusercontent.com/-yHhwemd_1BY/VUtPF6igCjI/AAAAAAAABEI/P9Ss1w2j-KQ/s512/IMG_1117.JPG"/ width = "200px">
+
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh5.googleusercontent.com/-B-ePpHBCbpM/VVRgNgQggwI/AAAAAAAABWQ/T-F8Qt6j1Po/s51-no/stair.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Stair: Small broken
+<br>
+<img src="https://lh3.googleusercontent.com/-FPEvhf_VhNk/VUtPF6UM44I/AAAAAAAABEM/X_agzPZt1H4/s512/IMG_1116.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57635627848072</longitude>
+					<latitude>4.631341019824844</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001178081947061269</heading>
+					<tilt>53.73274760562043</tilt>
+					<range>655.8877180446917</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_zainalabidinmala</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57601447447773,4.631889778708724,70</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zulfian Ahmad (wife)</name>
+			<Placemark>
+				<name>Zulfian Ahmad (wife)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/-rCowEAAcOBQ/VVRf8MCgEnI/AAAAAAAABVo/r4luQUtRRpU/s100-no/gable.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Gable: wood peeling
+<br>
+<img src="https://lh3.googleusercontent.com/-m7VYjxISpBI/VUtRx-YS-QI/AAAAAAAABLM/mSGclWBd7lA/s512/IMG_1138.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+<img src="https://lh5.googleusercontent.com/-ReRsd0Dz_Cw/VVRf6epe-II/AAAAAAAABVE/ChgJcPqa0Jw/w52-h51-no/ceiling.png"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Ceiling: Broken
+<br>
+<img src="https://lh3.googleusercontent.com/-J5pXEy54Sl4/VUtRx2oJ5RI/AAAAAAAABLI/3ywaPzyEuzs/s512/IMG_1139.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57674762333639</longitude>
+					<latitude>4.632759497526307</latitude>
+					<altitude>0</altitude>
+					<heading>0.06611170223863055</heading>
+					<tilt>58.87794526970727</tilt>
+					<range>372.8847387536026</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_zulfianahmadwife</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57635642026302,4.631700252030098,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zulkifli</name>
+			<Placemark>
+				<name>Zulkifli</name>
+				<open>1</open>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-tdSgNhoQbzSIG4zz2jLpC2Wpj6UGenn0Y57c6hXzYQ=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+Roof: Leak
+<br>
+<img src="https://lh3.googleusercontent.com/-UzPBX70ztao/VUtFPagSxsI/AAAAAAAAAqI/I-zGhTAnbJ8/s640/IMG_0992.JPG"/ width = "200px">
+<br>
+<hr width = "80%" size = "4" color="#00b7b7">
+<br>
+
+<img src="https://lh3.googleusercontent.com/TXPmXTRQBRu9UIeAMbxxyB5o73zQtbGwsCagh-WxwZ0=s207-p-no"/ width ="40px">
+<br>
+
+<hr width = "80%" size = "4" color="#00b7b7">
+
+House: Extended
+<br>
+<img src="https://lh3.googleusercontent.com/-5la-vWst7Tk/VUtFPbXyxyI/AAAAAAAAAqU/cv8GxbfQfOk/s640/IMG_0993.JPG"/ width = "200px">
+<img src="https://lh3.googleusercontent.com/-ziN5DGG_y8E/VUtFPQSo6RI/AAAAAAAAAqQ/-0bx54n5pzM/s640/IMG_0991.JPG"/ width = "200px">]]></description>
+				<LookAt>
+					<longitude>95.57658437851998</longitude>
+					<latitude>4.633202558082111</latitude>
+					<altitude>0</altitude>
+					<heading>0.06607198220333202</heading>
+					<tilt>60.00576689098833</tilt>
+					<range>468.2063481296975</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_zulkifliabd</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.57546968681727,4.63199601276453,50.00000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
