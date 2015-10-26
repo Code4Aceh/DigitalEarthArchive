@@ -31,7 +31,7 @@
 </head>
 <body>
 	<div id="slider">
-		<input id="range01" type="range" min="0" max="20" value="20" step="1" oninput="transParent();"/>
+		<input id="range01" type="range" min="0" max="20" value="0" step="1" oninput="transParent();"/>
 	</div>
 	<div id="blackOut"><img class="loading" src="Build/data/loading.gif"></div>
 	<div id="cesiumContainer"></div>
@@ -143,7 +143,7 @@
 			viewer = new Cesium.Viewer('cesiumContainer',{
 			navigationHelpButton : false,
 			geocoder:false,
-			timeline: true,
+			timeline: false,
 			animation: false,
 			sceneModePicker: true,
 			scene3DOnly : false,
@@ -160,7 +160,7 @@
 				sceneMode: Cesium.SceneMode.COLUMBUS_VIEW,
 				navigationHelpButton : false,
 				geocoder:false,
-				timeline: true,
+				timeline: false,
 				animation: false,
 				sceneModePicker: true,
 				scene3DOnly : false,
@@ -212,7 +212,7 @@
 		            );
 					var layers = viewer.imageryLayers;
 					osm = layers.addImageryProvider(newLayer);
-					osm.alpha = 1.0;
+					osm.alpha = 0;
 					osm.brightness = 0.8;
 					setTimeout('blackOut(0)',3000);
 				}

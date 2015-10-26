@@ -88,7 +88,7 @@ a:hover{
 	position:absolute;
 	top:10px;
 	left:10px;
-	width: 30%;
+	width: 12%;
 }
 #logo a{
 	text-decoration:none;
@@ -238,6 +238,6 @@ a:hover{
 		width: 50%;
 	}
 	#logo{
-		width: 45%;
+		width: 25%;
 	}
 }
