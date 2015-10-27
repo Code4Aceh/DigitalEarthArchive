@@ -23,10 +23,10 @@
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
+
 	ga('create', 'UA-55397811-5', 'auto');
 	ga('send', 'pageview');
-	
+
 	</script>
 </head>
 <body>
@@ -54,7 +54,7 @@
 		<div id="menu_about" class="menu_button"><img src="img/icon_about.png"></div>
 -->
 		<div id="c_place" class="menu_button"><img src="img/icon_place.png"></div>
-<!--		<div id="zentai" class="menu_button"><img src="img/icon_view.png"></div>		
+<!--		<div id="zentai" class="menu_button"><img src="img/icon_view.png"></div>
 		<div id="scene_2d" class="menu_button"><img src="img/icon_2d.png"></div>
 		<div id="zentai" class="menu_button"><img src="img/icon_view.png"></div>
 		<div id="c_place" class="menu_button"><img src="img/icon_place.png"></div>
@@ -92,7 +92,7 @@
 		this.pitch = _pitch;
 		this.range = _range;
 	}
-	
+
 	var viewPointsArray=[];
 		viewPointsArray[0]=new viewPoints("Balohan",4.633426,95.578812,0,-85,50000);
 		viewPointsArray[1]=new viewPoints("BlangEdit",4.633426,95.578812,0,-85,50000);
@@ -105,21 +105,19 @@
 			this.label = _label;
 			this.url = _url;
 		}
-		
+
 		var kmlDataArray=[];
-			kmlDataArray[0]=new kmlData("Balohan",'kml/balohan.kml');
-			kmlDataArray[1]=new kmlData("BlangEdit",'kml/blang.kml');
-			kmlDataArray[2]=new kmlData("KetapangEdit",'kml/ketapang.kml');
+			kmlDataArray[0]=new kmlData("Aceh",'kml/code4aceh.kml');
 
 		var osm;
 		var mobile = 0;
 		var viewPointChangeMenu = document.getElementById('slide_menu');
 		var dropDownList = "";
-		
+
 		for (var i=0; i<viewPointsArray.length; i++) {
 			dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '5.0);return false;">' + viewPointsArray[i].label + '</a></li>';
 		}
-		
+
 		var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '</ul>';
 		console.log (viewPointChangeMenuHtml);
 		viewPointChangeMenu.innerHTML = viewPointChangeMenuHtml;
@@ -175,8 +173,8 @@
 		}
 
 
-		if (mobile != 0) {		
-			viewer.scene.screenSpaceCameraController.enableTilt = false;			
+		if (mobile != 0) {
+			viewer.scene.screenSpaceCameraController.enableTilt = false;
 		}
 		blackOut(0);
 		setTimeout('groundZero()',0);
@@ -185,7 +183,7 @@
 			changeViewPoint(3,3);
 			setTimeout('landing()',4000);
 		}
-		
+
 		function landing(){
 			changeViewPoint(4,3);
 			setTimeout('blackOut(1)',4000);
@@ -217,7 +215,7 @@
 				}
 			}, 200);
 		}
-		
+
 		function transParent(){
 			osm.alpha = document.getElementById("range01").value * 0.05;
 		}
@@ -249,7 +247,7 @@
 				$(function() {
 					$(blackOutDiv).fadeIn("slow");
 				});
-			} 
+			}
 		}
 /*
 		$("#zentai").click(function(){
@@ -259,7 +257,7 @@
 		$("#scene_2d").click(function(){
 			changeViewPoint(20,3);
 		})
-*/	
+*/
 
 
 /*
