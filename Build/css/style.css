@@ -17,29 +17,12 @@ a:hover{
 	color:white;
 }
 
-.cesium-viewer-geocoderContainer {
-	visibility:hidden;
-}
-
-.cesium-sceneModePicker-wrapper {
-	visibility:hidden;
-}
-
 .cesium-home-button {
     visibility:hidden;
 }
 .cesium-widget-credits {
     visibility:hidden;
 }
-
-.cesium-selection-wrapper{
-		margin-top:-35px;
-}
-
-.cesium-selection-wrapper-visible {
-	margin-top:-35px;
-}
-
 
 .cesium-selection-wrapper svg {
     fill: #FFF;
@@ -98,9 +81,9 @@ a:hover{
 }
 
 #menubar{
-	position:absolute;
-	top: 20px;
-	right: 20px;
+    position: absolute;
+    top: 7px;
+    right: 38px;
 }
 .menu_button{
 	color:#fff;
@@ -110,11 +93,13 @@ a:hover{
 }
 
 .menu_button img{
-	background-color:#3E3E3E;
-	padding:3px;
-	border-radius: 5px;
-	display: inline-block;
-	width: 100%;
+    background-color: #3E3E3E;
+    padding: 3px;
+    border-radius: 5px;
+    display: inline-block;
+    width: 100%;
+    width: 26px;
+    height: 26px;
 }
 #check_bar{
 	position:fixed;
@@ -140,7 +125,7 @@ a:hover{
 
 #slide_menu{
     position: fixed;
-    top: 95px;
+    top: 48px;
     right: -200px;
     width: 100px;
     opacity:0.8;
@@ -177,7 +162,6 @@ a:hover{
 	right: -150px;
 
 }
-
 
 .sharebutton {
 	position:absolute;
