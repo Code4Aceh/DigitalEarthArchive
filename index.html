@@ -93,13 +93,16 @@
 			}
 		})();
 
+		Cesium.BingMapsApi.defaultKey = 'AmDiNiWtz3tsEzARYwq3soAdZUQbVEcrRhIhb-xco8ouQuH2VBsuR2cSElI8eMot';
+
 		var viewer;
 		viewer = new Cesium.Viewer('cesiumContainer', {
 			baseLayerPicker: true,
 			navigationHelpButton: false,
 			timeline: false,
 			animation: false,
-			sceneModePicker: false
+			sceneModePicker: false,
+			scene3DOnly: true
 		});
 		viewer.camera.frustum.fov = 70 * (3.14 / 180);
 		viewer.camera.setView({
